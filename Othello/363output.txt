@@ -1,0 +1,5503 @@
+--------------------------------第1場--------------------------------
+check node: 0, run time: 0.005
+Round1: Red G07
+
+check node: 0, run time: 0
+Round2: Green D05
+
+check node: 0, run time: 0
+Round3: Blue H05
+
+check node: 0, run time: 0
+Round4: Red C04
+
+check node: 0, run time: 0
+Round5: Green G04
+
+check node: 0, run time: 0
+Round6: Blue C05
+
+check node: 0, run time: 0
+Round7: Red G03
+
+check node: 0, run time: 0
+Round8: Green E07
+
+check node: 0, run time: 0
+Round9: Blue B03
+
+check node: 0, run time: 0
+Round10: Red D07
+
+check node: 0, run time: 0
+Round11: Green H07
+
+check node: 0, run time: 0
+Round12: Blue C07
+
+check node: 0, run time: 0
+Round13: Red J07
+
+check node: 0, run time: 0.001
+Round14: Green K07
+
+check node: 0, run time: 0
+Round15: Blue E04
+
+check node: 360, run time: 0.015
+Round16: Red G08
+
+check node: 299995, run time: 6.668
+Round17: Green B07
+
+check node: 373, run time: 0.009
+Round18: Blue J06
+
+check node: 612, run time: 0.021
+Round19: Red K05
+
+check node: 285960, run time: 6.68
+Round20: Green J05
+
+check node: 441, run time: 0.011
+Round21: Blue J04
+
+check node: 741, run time: 0.019
+Round22: Red J08
+
+check node: 421908, run time: 10.421
+Round23: Green H09
+
+check node: 227, run time: 0.006
+Round24: Blue L05
+
+check node: 517, run time: 0.017
+Round25: Red D03
+
+check node: 416892, run time: 10.982
+Round26: Green B05
+
+check node: 656, run time: 0.014
+Round27: Blue H03
+
+check node: 1130, run time: 0.026
+Round28: Red A05
+
+check node: 1024163, run time: 25.367
+Round29: Green A02
+
+check node: 759, run time: 0.017
+Round30: Blue C06
+
+check node: 900, run time: 0.019
+Round31: Red E08
+
+check node: 966494, run time: 25.992
+Round32: Green E03
+
+check node: 1137, run time: 0.024
+Round33: Blue G02
+
+check node: 1118, run time: 0.028
+Round34: Red G01
+
+check node: 569448, run time: 15.411
+Round35: Green C03
+
+check node: 608, run time: 0.016
+Round36: Blue F03
+
+check node: 953, run time: 0.023
+Round37: Red E02
+
+check node: 935803, run time: 25.535
+Round38: Green E01
+
+check node: 860, run time: 0.022
+Round39: Blue F09
+
+check node: 671, run time: 0.019
+Round40: Red K03
+
+check node: 377592, run time: 10.011
+Round41: Green G09
+
+check node: 766, run time: 0.024
+Round42: Blue E09
+
+check node: 614, run time: 0.016
+Round43: Red E10
+
+check node: 433683, run time: 12.153
+Round44: Green L04
+
+check node: 862, run time: 0.023
+Round45: Blue L03
+
+check node: 544, run time: 0.013
+Round46: Red D01
+
+check node: 318354, run time: 9.413
+Round47: Green J03
+
+check node: 457, run time: 0.017
+Round48: Blue F01
+
+check node: 344, run time: 0.01
+Round49: Red A03
+
+check node: 92428, run time: 3.103
+Round50: Green A04
+
+check node: 340, run time: 0.012
+Round51: Blue A01
+
+check node: 251, run time: 0.007
+Round52: Red G10
+
+check node: 58783, run time: 2.41
+Round53: Green A06
+
+check node: 261, run time: 0.01
+Round54: Blue L06
+
+check node: 157, run time: 0.006
+Round55: Red J02
+
+check node: 24350, run time: 1.354
+Round56: Green F11
+
+check node: 140, run time: 0.008
+Round57: Blue H01
+
+check node: 105, run time: 0.005
+Round58: Red L02
+
+check node: 4938, run time: 0.348
+Round59: Green L01
+
+check node: 65, run time: 0.004
+Round60: Blue J01
+
+check node: 44, run time: 0.003
+Round61: Red K01
+
+check node: 923, run time: 0.032
+Round62: Green D09
+
+check node: 9, run time: 0
+Round63: Blue C01
+
+check node: 6, run time: 0
+Round64: Red C08
+
+check node: 1598, run time: 0.07
+Round65: Green C02
+
+check node: 79, run time: 0.004
+Round66: Blue B01
+
+check node: 345, run time: 0.014
+Round67: Red F08
+
+check node: 81507, run time: 2.416
+Round68: Green F10
+
+check node: 36, run time: 0.001
+Round69: Blue H08
+
+check node: 72, run time: 0.002
+Round70: Red H06
+
+check node: 36706, run time: 1.083
+Round71: Green H04
+
+check node: 284, run time: 0.008
+Round72: Blue K06
+
+check node: 124, run time: 0.004
+Round73: Red K02
+
+check node: 31054, run time: 0.966
+Round74: Green D08
+
+check node: 174, run time: 0.007
+Round75: Blue K04
+
+check node: 276, run time: 0.009
+Round76: Red H02
+
+check node: 6210, run time: 0.239
+Round77: Green B06
+
+check node: 61, run time: 0.002
+Round78: Blue D06
+
+check node: 73, run time: 0.004
+Round79: Red F06
+
+check node: 535, run time: 0.038
+Round80: Green B04
+
+check node: 34, run time: 0.001
+Round81: Blue D04
+
+check node: 40, run time: 0.001
+Round82: Red B02
+
+check node: 15, run time: 0.001
+Round83: Green D02
+
+check node: 4, run time: 0
+Round84: Blue F02
+
+check node: 1, run time: 0
+Round85: Red F04
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    B    B    B    B    G    G    x 
+   x    x    x    x    x    B    R    R    R    G    G    G    x 
+   x    x    x    x    B    G    R    B    G    R    G    R    x 
+   x    x    x    B    G    G    G    G    G    G    G    G    x 
+   x    x    B    B    R    R    B    R    B    G    G    G    x 
+   x    B    B    B    R    R    R    G    G    G    G    G    x 
+   x    B    B    R    R    R    R    G    R    B    G    x    x 
+   x    B    R    R    G    G    B    G    B    B    x    x    x 
+   x    B    R    R    B    B    B    B    B    x    x    x    x 
+   x    R    R    R    B    B    B    B    x    x    x    x    x 
+   x    G    G    B    B    B    B    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 24 31 total runtime: 173.5
+
+
+--------------------------------第2場--------------------------------
+check node: 0, run time: 0
+Round1: Red H05
+
+check node: 0, run time: 0
+Round2: Green G07
+
+check node: 0, run time: 0
+Round3: Blue E04
+
+check node: 0, run time: 0
+Round4: Red D03
+
+check node: 0, run time: 0
+Round5: Green E03
+
+check node: 0, run time: 0
+Round6: Blue E02
+
+check node: 0, run time: 0
+Round7: Red D05
+
+check node: 0, run time: 0
+Round8: Green C03
+
+check node: 0, run time: 0
+Round9: Blue C02
+
+check node: 0, run time: 0
+Round10: Red H07
+
+check node: 0, run time: 0
+Round11: Green E01
+
+check node: 0, run time: 0
+Round12: Blue J05
+
+check node: 0, run time: 0
+Round13: Red B01
+
+check node: 0, run time: 0
+Round14: Green G04
+
+check node: 0, run time: 0
+Round15: Blue C04
+
+check node: 551, run time: 0.013
+Round16: Red K05
+
+check node: 278515, run time: 6.955
+Round17: Green G08
+
+check node: 678, run time: 0.02
+Round18: Blue L05
+
+check node: 467, run time: 0.011
+Round19: Red H03
+
+check node: 382690, run time: 9.4
+Round20: Green J06
+
+check node: 603, run time: 0.015
+Round21: Blue F03
+
+check node: 868, run time: 0.02
+Round22: Red G09
+
+check node: 489642, run time: 11.945
+Round23: Green C05
+
+check node: 934, run time: 0.021
+Round24: Blue C06
+
+check node: 972, run time: 0.026
+Round25: Red B05
+
+check node: 885951, run time: 21.444
+Round26: Green A04
+
+check node: 1005, run time: 0.02
+Round27: Blue J07
+
+check node: 1166, run time: 0.029
+Round28: Red L04
+
+check node: 1225512, run time: 26.272
+Round29: Green L06
+
+check node: 873, run time: 0.018
+Round30: Blue L03
+
+check node: 1333, run time: 0.035
+Round31: Red J08
+
+check node: 1238543, run time: 29.761
+Round32: Green K07
+
+check node: 1198, run time: 0.025
+Round33: Blue H09
+
+check node: 1307, run time: 0.03
+Round34: Red J04
+
+check node: 1556880, run time: 34.865
+Round35: Green G10
+
+check node: 978, run time: 0.025
+Round36: Blue J03
+
+check node: 1000, run time: 0.03
+Round37: Red F09
+
+check node: 993766, run time: 24.019
+Round38: Green L02
+
+check node: 850, run time: 0.021
+Round39: Blue J02
+
+check node: 970, run time: 0.032
+Round40: Red K01
+
+check node: 509705, run time: 13.046
+Round41: Green C07
+
+check node: 719, run time: 0.019
+Round42: Blue E07
+
+check node: 781, run time: 0.021
+Round43: Red C08
+
+check node: 308458, run time: 8.833
+Round44: Green K03
+
+check node: 484, run time: 0.015
+Round45: Blue D01
+
+check node: 491, run time: 0.015
+Round46: Red F01
+
+check node: 137225, run time: 4.544
+Round47: Green D07
+
+check node: 303, run time: 0.009
+Round48: Blue J01
+
+check node: 438, run time: 0.013
+Round49: Red C01
+
+check node: 82704, run time: 3.02
+Round50: Green L01
+
+check node: 259, run time: 0.009
+Round51: Blue B07
+
+check node: 346, run time: 0.014
+Round52: Red A06
+
+check node: 16933, run time: 0.731
+Round53: Green H01
+
+check node: 112, run time: 0.005
+Round54: Blue A05
+
+check node: 125, run time: 0.006
+Round55: Red E08
+
+check node: 2554, run time: 0.201
+Round56: Green E09
+
+check node: 100, run time: 0.005
+Round57: Blue D09
+
+check node: 72, run time: 0.006
+Round58: Red E10
+
+check node: 374, run time: 0.031
+Round59: Green B03
+
+check node: 30, run time: 0.002
+Round60: Blue A02
+
+check node: 19, run time: 0.001
+Round61: Red G03
+
+check node: 692, run time: 0.031
+Round62: Green G02
+
+check node: 25, run time: 0.001
+Round63: Blue G01
+
+check node: 20, run time: 0.001
+Round64: Red A03
+
+check node: 6267, run time: 0.204
+Round65: Green A01
+
+check node: 255, run time: 0.011
+Round66: Blue F10
+
+check node: 14, run time: 0
+Round67: Red H08
+
+check node: 12661, run time: 0.37
+Round68: Green D08
+
+check node: 102, run time: 0.003
+Round69: Blue D06
+
+check node: 266, run time: 0.008
+Round70: Red B06
+
+check node: 34376, run time: 0.977
+Round71: Green H06
+
+check node: 186, run time: 0.006
+Round72: Blue K06
+
+check node: 192, run time: 0.007
+Round73: Red B04
+
+check node: 18541, run time: 0.605
+Round74: Green F08
+
+check node: 88, run time: 0.004
+Round75: Blue K04
+
+check node: 111, run time: 0.004
+Round76: Red F11
+
+check node: 3991, run time: 0.149
+Round77: Green F06
+
+check node: 70, run time: 0.003
+Round78: Blue D04
+
+check node: 73, run time: 0.002
+Round79: Red K02
+
+check node: 749, run time: 0.055
+Round80: Green H04
+
+check node: 42, run time: 0.002
+Round81: Blue B02
+
+check node: 17, run time: 0
+Round82: Red H02
+
+check node: 15, run time: 0.001
+Round83: Green D02
+
+check node: 4, run time: 0
+Round84: Blue F04
+
+check node: 1, run time: 0
+Round85: Red F02
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    G    G    R    R    B    R    x 
+   x    x    x    x    x    R    B    R    R    R    R    R    x 
+   x    x    x    x    R    G    B    B    R    R    R    R    x 
+   x    x    x    R    G    G    B    B    G    B    G    R    x 
+   x    x    R    R    B    B    B    G    G    G    G    R    x 
+   x    R    R    R    B    B    G    G    G    R    R    R    x 
+   x    B    R    B    B    G    G    G    G    R    G    x    x 
+   x    G    R    R    G    G    G    G    R    G    x    x    x 
+   x    G    R    G    G    B    B    B    G    x    x    x    x 
+   x    G    R    R    B    B    B    G    x    x    x    x    x 
+   x    G    G    G    G    G    G    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 33 37 total runtime: 200.091
+
+
+--------------------------------第3場--------------------------------
+check node: 0, run time: 0
+Round1: Red E07
+
+check node: 0, run time: 0
+Round2: Green G07
+
+check node: 0, run time: 0
+Round3: Blue D05
+
+check node: 0, run time: 0
+Round4: Red C04
+
+check node: 0, run time: 0
+Round5: Green C05
+
+check node: 0, run time: 0
+Round6: Blue B03
+
+check node: 0, run time: 0
+Round7: Red H07
+
+check node: 0, run time: 0
+Round8: Green C03
+
+check node: 0, run time: 0
+Round9: Blue D03
+
+check node: 0, run time: 0
+Round10: Red B05
+
+check node: 0, run time: 0
+Round11: Green C02
+
+check node: 0, run time: 0
+Round12: Blue A05
+
+check node: 0, run time: 0
+Round13: Red C01
+
+check node: 0, run time: 0
+Round14: Green E03
+
+check node: 0, run time: 0
+Round15: Blue G08
+
+check node: 1028, run time: 0.022
+Round16: Red A03
+
+check node: 433779, run time: 12.642
+Round17: Green F09
+
+check node: 876, run time: 0.02
+Round18: Blue J06
+
+check node: 949, run time: 0.022
+Round19: Red F03
+
+check node: 213373, run time: 5.908
+Round20: Green K05
+
+check node: 432, run time: 0.012
+Round21: Blue D07
+
+check node: 476, run time: 0.015
+Round22: Red H05
+
+check node: 311784, run time: 7.931
+Round23: Green C06
+
+check node: 595, run time: 0.015
+Round24: Blue A02
+
+check node: 777, run time: 0.019
+Round25: Red A01
+
+check node: 462114, run time: 10.69
+Round26: Green G04
+
+check node: 753, run time: 0.019
+Round27: Blue H03
+
+check node: 527, run time: 0.015
+Round28: Red A04
+
+check node: 142696, run time: 3.395
+Round29: Green A06
+
+check node: 584, run time: 0.014
+Round30: Blue J07
+
+check node: 1137, run time: 0.029
+Round31: Red K07
+
+check node: 781398, run time: 18.706
+Round32: Green G02
+
+check node: 1084, run time: 0.025
+Round33: Blue H01
+
+check node: 863, run time: 0.02
+Round34: Red L04
+
+check node: 278160, run time: 7.244
+Round35: Green B01
+
+check node: 511, run time: 0.013
+Round36: Blue D01
+
+check node: 533, run time: 0.016
+Round37: Red E09
+
+check node: 188841, run time: 5.484
+Round38: Green E04
+
+check node: 332, run time: 0.008
+Round39: Blue G09
+
+check node: 601, run time: 0.021
+Round40: Red G10
+
+check node: 75438, run time: 2.393
+Round41: Green J05
+
+check node: 346, run time: 0.008
+Round42: Blue J08
+
+check node: 636, run time: 0.02
+Round43: Red H09
+
+check node: 112688, run time: 3.521
+Round44: Green L05
+
+check node: 414, run time: 0.019
+Round45: Blue L06
+
+check node: 445, run time: 0.016
+Round46: Red C07
+
+check node: 159669, run time: 5.61
+Round47: Green F11
+
+check node: 344, run time: 0.01
+Round48: Blue L03
+
+check node: 275, run time: 0.011
+Round49: Red J04
+
+check node: 54178, run time: 2.032
+Round50: Green E08
+
+check node: 312, run time: 0.01
+Round51: Blue C08
+
+check node: 256, run time: 0.01
+Round52: Red E02
+
+check node: 32514, run time: 1.337
+Round53: Green B07
+
+check node: 170, run time: 0.006
+Round54: Blue K03
+
+check node: 204, run time: 0.009
+Round55: Red G03
+
+check node: 15023, run time: 0.666
+Round56: Green E10
+
+check node: 71, run time: 0.003
+Round57: Blue D09
+
+check node: 120, run time: 0.006
+Round58: Red L02
+
+check node: 2583, run time: 0.152
+Round59: Green L01
+
+check node: 34, run time: 0.002
+Round60: Blue J03
+
+check node: 55, run time: 0.002
+Round61: Red J02
+
+check node: 1866, run time: 0.065
+Round62: Green K01
+
+check node: 16, run time: 0.001
+Round63: Blue J01
+
+check node: 23, run time: 0.002
+Round64: Red E01
+
+check node: 9139, run time: 0.334
+Round65: Green F01
+
+check node: 348, run time: 0.015
+Round66: Blue G01
+
+check node: 342, run time: 0.014
+Round67: Red B02
+
+check node: 3470, run time: 0.122
+Round68: Green D04
+
+check node: 92, run time: 0.005
+Round69: Blue F06
+
+check node: 226, run time: 0.007
+Round70: Red D06
+
+check node: 67880, run time: 2.019
+Round71: Green H06
+
+check node: 490, run time: 0.012
+Round72: Blue D02
+
+check node: 438, run time: 0.01
+Round73: Red F08
+
+check node: 126008, run time: 4.307
+Round74: Green F10
+
+check node: 339, run time: 0.008
+Round75: Blue H04
+
+check node: 349, run time: 0.009
+Round76: Red D08
+
+check node: 26390, run time: 1.119
+Round77: Green B06
+
+check node: 178, run time: 0.005
+Round78: Blue B04
+
+check node: 74, run time: 0.003
+Round79: Red H02
+
+check node: 1348, run time: 0.096
+Round80: Green H08
+
+check node: 73, run time: 0.004
+Round81: Blue F04
+
+check node: 40, run time: 0.002
+Round82: Red F02
+
+check node: 15, run time: 0.001
+Round83: Green K02
+
+check node: 4, run time: 0.001
+Round84: Blue K04
+
+check node: 1, run time: 0
+Round85: Red K06
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    R    R    R    R    G    G    x 
+   x    x    x    x    x    G    R    B    B    B    G    G    x 
+   x    x    x    x    G    B    B    B    B    G    G    B    x 
+   x    x    x    G    B    B    R    R    G    R    R    B    x 
+   x    x    G    R    B    B    B    R    G    R    R    G    x 
+   x    G    R    R    B    B    B    R    G    G    G    G    x 
+   x    B    G    B    B    B    G    R    G    G    G    x    x 
+   x    B    G    R    B    B    G    G    G    G    x    x    x 
+   x    B    G    G    B    B    R    R    G    x    x    x    x 
+   x    G    G    B    B    R    R    G    x    x    x    x    x 
+   x    G    G    B    B    B    B    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 22 36 total runtime: 98.296
+
+
+--------------------------------第4場--------------------------------
+check node: 0, run time: 0
+Round1: Red E04
+
+check node: 0, run time: 0
+Round2: Green E03
+
+check node: 0, run time: 0
+Round3: Blue D05
+
+check node: 0, run time: 0
+Round4: Red H05
+
+check node: 0, run time: 0
+Round5: Green E07
+
+check node: 0, run time: 0
+Round6: Blue D03
+
+check node: 0, run time: 0
+Round7: Red E02
+
+check node: 0, run time: 0
+Round8: Green C02
+
+check node: 0, run time: 0
+Round9: Blue G04
+
+check node: 0, run time: 0
+Round10: Red C05
+
+check node: 0, run time: 0
+Round11: Green C04
+
+check node: 0, run time: 0
+Round12: Blue E08
+
+check node: 0, run time: 0
+Round13: Red B01
+
+check node: 0, run time: 0
+Round14: Green J05
+
+check node: 0, run time: 0
+Round15: Blue B05
+
+check node: 861, run time: 0.024
+Round16: Red G03
+
+check node: 618856, run time: 13.158
+Round17: Green E01
+
+check node: 900, run time: 0.02
+Round18: Blue G02
+
+check node: 898, run time: 0.024
+Round19: Red G01
+
+check node: 408364, run time: 8.883
+Round20: Green H03
+
+check node: 932, run time: 0.022
+Round21: Blue G07
+
+check node: 1016, run time: 0.026
+Round22: Red A05
+
+check node: 424249, run time: 10.185
+Round23: Green C03
+
+check node: 699, run time: 0.018
+Round24: Blue B03
+
+check node: 715, run time: 0.027
+Round25: Red J02
+
+check node: 231474, run time: 6.471
+Round26: Green A03
+
+check node: 373, run time: 0.01
+Round27: Blue K01
+
+check node: 575, run time: 0.015
+Round28: Red G08
+
+check node: 323075, run time: 8.664
+Round29: Green E09
+
+check node: 470, run time: 0.014
+Round30: Blue D07
+
+check node: 654, run time: 0.017
+Round31: Red E10
+
+check node: 304278, run time: 8.455
+Round32: Green F09
+
+check node: 660, run time: 0.016
+Round33: Blue D09
+
+check node: 725, run time: 0.019
+Round34: Red C08
+
+check node: 271197, run time: 7.602
+Round35: Green C07
+
+check node: 495, run time: 0.015
+Round36: Blue C06
+
+check node: 427, run time: 0.011
+Round37: Red G09
+
+check node: 241547, run time: 7.319
+Round38: Green H09
+
+check node: 416, run time: 0.012
+Round39: Blue H07
+
+check node: 513, run time: 0.021
+Round40: Red B07
+
+check node: 160914, run time: 4.667
+Round41: Green A04
+
+check node: 330, run time: 0.011
+Round42: Blue A06
+
+check node: 297, run time: 0.01
+Round43: Red K05
+
+check node: 112858, run time: 4.302
+Round44: Green F11
+
+check node: 278, run time: 0.009
+Round45: Blue A02
+
+check node: 271, run time: 0.009
+Round46: Red J03
+
+check node: 61078, run time: 2.161
+Round47: Green L05
+
+check node: 176, run time: 0.005
+Round48: Blue G10
+
+check node: 230, run time: 0.009
+Round49: Red J06
+
+check node: 36981, run time: 1.297
+Round50: Green J04
+
+check node: 220, run time: 0.008
+Round51: Blue F03
+
+check node: 206, run time: 0.009
+Round52: Red L04
+
+check node: 41312, run time: 1.715
+Round53: Green L03
+
+check node: 159, run time: 0.006
+Round54: Blue J07
+
+check node: 151, run time: 0.006
+Round55: Red K07
+
+check node: 6654, run time: 0.394
+Round56: Green J01
+
+check node: 131, run time: 0.007
+Round57: Blue K03
+
+check node: 120, run time: 0.005
+Round58: Red L01
+
+check node: 1834, run time: 0.146
+Round59: Green H01
+
+check node: 58, run time: 0.003
+Round60: Blue F01
+
+check node: 33, run time: 0.002
+Round61: Red L02
+
+check node: 266, run time: 0.011
+Round62: Green C01
+
+check node: 26, run time: 0.002
+Round63: Blue L06
+
+check node: 8, run time: 0.001
+Round64: Red J08
+
+check node: 683, run time: 0.026
+Round65: Green A01
+
+check node: 33, run time: 0.002
+Round66: Blue D01
+
+check node: 141, run time: 0.006
+Round67: Red K02
+
+check node: 4093, run time: 0.121
+Round68: Green H04
+
+check node: 112, run time: 0.004
+Round69: Blue F06
+
+check node: 213, run time: 0.006
+Round70: Red D04
+
+check node: 170998, run time: 4.638
+Round71: Green H06
+
+check node: 564, run time: 0.014
+Round72: Blue K04
+
+check node: 493, run time: 0.017
+Round73: Red H02
+
+check node: 101295, run time: 3.051
+Round74: Green K06
+
+check node: 271, run time: 0.008
+Round75: Blue F02
+
+check node: 212, run time: 0.007
+Round76: Red F04
+
+check node: 8878, run time: 0.353
+Round77: Green H08
+
+check node: 81, run time: 0.003
+Round78: Blue F08
+
+check node: 119, run time: 0.004
+Round79: Red F10
+
+check node: 637, run time: 0.046
+Round80: Green D08
+
+check node: 34, run time: 0.001
+Round81: Blue B06
+
+check node: 40, run time: 0.002
+Round82: Red B04
+
+check node: 15, run time: 0.002
+Round83: Green D06
+
+check node: 4, run time: 0
+Round84: Blue B02
+
+check node: 1, run time: 0
+Round85: Red D02
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    G    B    B    B    B    B    x 
+   x    x    x    x    x    G    B    B    R    R    B    G    x 
+   x    x    x    x    G    R    B    R    G    B    B    G    x 
+   x    x    x    B    R    R    R    G    G    G    G    G    x 
+   x    x    B    B    R    R    R    G    G    G    G    G    x 
+   x    B    B    B    R    R    R    B    B    R    R    G    x 
+   x    B    B    R    R    B    G    B    B    R    B    x    x 
+   x    G    R    R    R    G    G    G    G    R    x    x    x 
+   x    G    R    B    B    B    G    G    R    x    x    x    x 
+   x    R    R    R    B    G    G    R    x    x    x    x    x 
+   x    R    R    B    B    B    B    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 30 28 total runtime: 96.176
+
+
+--------------------------------第5場--------------------------------
+check node: 0, run time: 0
+Round1: Red D05
+
+check node: 0, run time: 0
+Round2: Green E07
+
+check node: 0, run time: 0
+Round3: Blue H05
+
+check node: 0, run time: 0
+Round4: Red G04
+
+check node: 0, run time: 0
+Round5: Green G07
+
+check node: 0, run time: 0
+Round6: Blue D07
+
+check node: 0, run time: 0
+Round7: Red E08
+
+check node: 0, run time: 0
+Round8: Green E04
+
+check node: 0, run time: 0
+Round9: Blue G08
+
+check node: 0, run time: 0
+Round10: Red H07
+
+check node: 0, run time: 0
+Round11: Green C05
+
+check node: 0, run time: 0
+Round12: Blue D03
+
+check node: 0, run time: 0
+Round13: Red C06
+
+check node: 0, run time: 0
+Round14: Green E03
+
+check node: 0, run time: 0
+Round15: Blue H03
+
+check node: 1483, run time: 0.035
+Round16: Red J05
+
+check node: 1995153, run time: 41.547
+Round17: Green J04
+
+check node: 1778, run time: 0.035
+Round18: Blue J06
+
+check node: 1449, run time: 0.032
+Round19: Red K03
+
+check node: 1677233, run time: 35.322
+Round20: Green L02
+
+check node: 1070, run time: 0.022
+Round21: Blue E02
+
+check node: 911, run time: 0.024
+Round22: Red E01
+
+check node: 733302, run time: 15.045
+Round23: Green F03
+
+check node: 1204, run time: 0.025
+Round24: Blue D01
+
+check node: 1130, run time: 0.033
+Round25: Red C01
+
+check node: 910381, run time: 19.598
+Round26: Green G09
+
+check node: 1188, run time: 0.03
+Round27: Blue G02
+
+check node: 800, run time: 0.021
+Round28: Red G03
+
+check node: 1076405, run time: 22.788
+Round29: Green C07
+
+check node: 1097, run time: 0.027
+Round30: Blue B07
+
+check node: 1340, run time: 0.034
+Round31: Red G10
+
+check node: 623193, run time: 14.087
+Round32: Green H01
+
+check node: 673, run time: 0.016
+Round33: Blue J03
+
+check node: 854, run time: 0.023
+Round34: Red J07
+
+check node: 695163, run time: 15.444
+Round35: Green J08
+
+check node: 710, run time: 0.019
+Round36: Blue F09
+
+check node: 841, run time: 0.024
+Round37: Red K05
+
+check node: 615515, run time: 14.488
+Round38: Green L04
+
+check node: 665, run time: 0.02
+Round39: Blue B05
+
+check node: 797, run time: 0.023
+Round40: Red A04
+
+check node: 348078, run time: 8.492
+Round41: Green C03
+
+check node: 558, run time: 0.018
+Round42: Blue B03
+
+check node: 608, run time: 0.016
+Round43: Red A03
+
+check node: 195019, run time: 5.068
+Round44: Green C04
+
+check node: 415, run time: 0.014
+Round45: Blue L03
+
+check node: 427, run time: 0.011
+Round46: Red L01
+
+check node: 111327, run time: 3.319
+Round47: Green E09
+
+check node: 527, run time: 0.017
+Round48: Blue D09
+
+check node: 412, run time: 0.012
+Round49: Red L05
+
+check node: 109359, run time: 3.828
+Round50: Green L06
+
+check node: 290, run time: 0.009
+Round51: Blue K07
+
+check node: 262, run time: 0.009
+Round52: Red J02
+
+check node: 56946, run time: 2.223
+Round53: Green J01
+
+check node: 227, run time: 0.008
+Round54: Blue H09
+
+check node: 162, run time: 0.006
+Round55: Red K01
+
+check node: 8249, run time: 0.429
+Round56: Green F11
+
+check node: 88, run time: 0.005
+Round57: Blue C02
+
+check node: 77, run time: 0.004
+Round58: Red G01
+
+check node: 2332, run time: 0.118
+Round59: Green A02
+
+check node: 37, run time: 0.002
+Round60: Blue A01
+
+check node: 30, run time: 0.003
+Round61: Red E10
+
+check node: 364, run time: 0.013
+Round62: Green B01
+
+check node: 8, run time: 0.001
+Round63: Blue F01
+
+check node: 5, run time: 0
+Round64: Red C08
+
+check node: 2735, run time: 0.11
+Round65: Green A06
+
+check node: 85, run time: 0.003
+Round66: Blue A05
+
+check node: 320, run time: 0.016
+Round67: Red K02
+
+check node: 854, run time: 0.033
+Round68: Green K04
+
+check node: 42, run time: 0.003
+Round69: Blue H04
+
+check node: 91, run time: 0.003
+Round70: Red F06
+
+check node: 78765, run time: 2.329
+Round71: Green H06
+
+check node: 253, run time: 0.007
+Round72: Blue D06
+
+check node: 417, run time: 0.012
+Round73: Red K06
+
+check node: 60009, run time: 1.949
+Round74: Green H08
+
+check node: 278, run time: 0.007
+Round75: Blue B04
+
+check node: 304, run time: 0.008
+Round76: Red D04
+
+check node: 21844, run time: 0.931
+Round77: Green B06
+
+check node: 151, run time: 0.005
+Round78: Blue F08
+
+check node: 123, run time: 0.005
+Round79: Red F10
+
+check node: 614, run time: 0.044
+Round80: Green D08
+
+check node: 30, run time: 0.001
+Round81: Blue F04
+
+check node: 20, run time: 0.001
+Round82: Red B02
+
+check node: 15, run time: 0.001
+Round83: Green D02
+
+check node: 4, run time: 0
+Round84: Blue F02
+
+check node: 1, run time: 0
+Round85: Red H02
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    B    B    B    B    B    G    x 
+   x    x    x    x    x    G    R    G    G    G    G    G    x 
+   x    x    x    x    B    G    R    R    B    G    G    R    x 
+   x    x    x    B    G    G    R    R    B    G    G    R    x 
+   x    x    B    B    G    B    R    B    B    G    G    R    x 
+   x    B    B    B    B    B    R    R    R    R    G    G    x 
+   x    R    R    R    B    B    G    B    B    R    G    x    x 
+   x    R    R    R    B    G    G    G    G    B    x    x    x 
+   x    R    R    B    G    G    R    G    B    x    x    x    x 
+   x    R    R    G    G    R    R    B    x    x    x    x    x 
+   x    R    R    B    G    G    G    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 29 33 total runtime: 209.852
+
+
+--------------------------------第6場--------------------------------
+check node: 0, run time: 0
+Round1: Red G07
+
+check node: 0, run time: 0
+Round2: Green G08
+
+check node: 0, run time: 0
+Round3: Blue H05
+
+check node: 0, run time: 0
+Round4: Red G09
+
+check node: 0, run time: 0
+Round5: Green G10
+
+check node: 0, run time: 0
+Round6: Blue E04
+
+check node: 0, run time: 0
+Round7: Red D05
+
+check node: 0, run time: 0
+Round8: Green E07
+
+check node: 0, run time: 0
+Round9: Blue H07
+
+check node: 0, run time: 0
+Round10: Red J07
+
+check node: 0, run time: 0
+Round11: Green J04
+
+check node: 0, run time: 0
+Round12: Blue K03
+
+check node: 0, run time: 0
+Round13: Red G04
+
+check node: 0, run time: 0
+Round14: Green E03
+
+check node: 0, run time: 0
+Round15: Blue E02
+
+check node: 405, run time: 0.011
+Round16: Red L02
+
+check node: 170850, run time: 4.207
+Round17: Green J05
+
+check node: 619, run time: 0.015
+Round18: Blue J06
+
+check node: 758, run time: 0.017
+Round19: Red E01
+
+check node: 537924, run time: 13.447
+Round20: Green G03
+
+check node: 670, run time: 0.017
+Round21: Blue J08
+
+check node: 520, run time: 0.011
+Round22: Red K05
+
+check node: 469903, run time: 11.226
+Round23: Green L04
+
+check node: 528, run time: 0.015
+Round24: Blue J03
+
+check node: 536, run time: 0.014
+Round25: Red E08
+
+check node: 415820, run time: 10.491
+Round26: Green D03
+
+check node: 928, run time: 0.022
+Round27: Blue C03
+
+check node: 836, run time: 0.022
+Round28: Red H03
+
+check node: 584522, run time: 14.009
+Round29: Green F03
+
+check node: 579, run time: 0.013
+Round30: Blue G02
+
+check node: 437, run time: 0.011
+Round31: Red C02
+
+check node: 904410, run time: 23.201
+Round32: Green H01
+
+check node: 684, run time: 0.016
+Round33: Blue C01
+
+check node: 509, run time: 0.013
+Round34: Red B01
+
+check node: 519086, run time: 14.01
+Round35: Green A01
+
+check node: 574, run time: 0.015
+Round36: Blue D07
+
+check node: 787, run time: 0.021
+Round37: Red L05
+
+check node: 795853, run time: 19.892
+Round38: Green L06
+
+check node: 646, run time: 0.015
+Round39: Blue E09
+
+check node: 571, run time: 0.02
+Round40: Red F09
+
+check node: 579230, run time: 14.062
+Round41: Green K07
+
+check node: 637, run time: 0.015
+Round42: Blue C04
+
+check node: 714, run time: 0.021
+Round43: Red D09
+
+check node: 276033, run time: 8.053
+Round44: Green H09
+
+check node: 318, run time: 0.009
+Round45: Blue E10
+
+check node: 499, run time: 0.016
+Round46: Red F11
+
+check node: 76607, run time: 2.572
+Round47: Green L03
+
+check node: 233, run time: 0.007
+Round48: Blue L01
+
+check node: 266, run time: 0.01
+Round49: Red C07
+
+check node: 38918, run time: 1.363
+Round50: Green D01
+
+check node: 162, run time: 0.006
+Round51: Blue F01
+
+check node: 133, run time: 0.004
+Round52: Red G01
+
+check node: 12858, run time: 0.579
+Round53: Green B07
+
+check node: 78, run time: 0.005
+Round54: Blue C06
+
+check node: 124, run time: 0.006
+Round55: Red C08
+
+check node: 7306, run time: 0.315
+Round56: Green C05
+
+check node: 111, run time: 0.007
+Round57: Blue A06
+
+check node: 36, run time: 0.002
+Round58: Red B03
+
+check node: 2379, run time: 0.105
+Round59: Green A02
+
+check node: 76, run time: 0.003
+Round60: Blue A03
+
+check node: 33, run time: 0.003
+Round61: Red J02
+
+check node: 1395, run time: 0.055
+Round62: Green J01
+
+check node: 14, run time: 0.001
+Round63: Blue K01
+
+check node: 8, run time: 0.001
+Round64: Red A04
+
+check node: 1121, run time: 0.047
+Round65: Green A05
+
+check node: 61, run time: 0.003
+Round66: Blue B05
+
+check node: 243, run time: 0.011
+Round67: Red F10
+
+check node: 635, run time: 0.026
+Round68: Green D08
+
+check node: 32, run time: 0.002
+Round69: Blue B06
+
+check node: 49, run time: 0.002
+Round70: Red D06
+
+check node: 21632, run time: 0.63
+Round71: Green B04
+
+check node: 55, run time: 0.002
+Round72: Blue F08
+
+check node: 120, run time: 0.004
+Round73: Red F06
+
+check node: 35226, run time: 1.049
+Round74: Green B02
+
+check node: 194, run time: 0.008
+Round75: Blue D04
+
+check node: 121, run time: 0.004
+Round76: Red F04
+
+check node: 13734, run time: 0.519
+Round77: Green D02
+
+check node: 105, run time: 0.004
+Round78: Blue F02
+
+check node: 78, run time: 0.004
+Round79: Red H04
+
+check node: 812, run time: 0.061
+Round80: Green K04
+
+check node: 66, run time: 0.003
+Round81: Blue H02
+
+check node: 24, run time: 0.001
+Round82: Red K02
+
+check node: 15, run time: 0.001
+Round83: Green K06
+
+check node: 4, run time: 0.001
+Round84: Blue H06
+
+check node: 1, run time: 0
+Round85: Red H08
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    G    G    G    G    G    B    x 
+   x    x    x    x    x    G    G    G    G    B    B    B    x 
+   x    x    x    x    G    G    B    G    G    B    B    R    x 
+   x    x    x    G    G    G    B    B    R    R    G    R    x 
+   x    x    B    G    G    R    B    R    B    B    G    R    x 
+   x    B    B    B    R    R    B    R    B    R    R    R    x 
+   x    R    B    B    R    R    B    B    R    R    G    x    x 
+   x    B    B    B    B    B    B    R    R    G    x    x    x 
+   x    B    B    R    G    B    B    G    G    x    x    x    x 
+   x    B    G    G    G    G    G    G    x    x    x    x    x 
+   x    B    B    G    G    G    G    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 21 35 total runtime: 142.121
+
+
+--------------------------------第7場--------------------------------
+check node: 0, run time: 0
+Round1: Red G04
+
+check node: 0, run time: 0
+Round2: Green G07
+
+check node: 0, run time: 0
+Round3: Blue G03
+
+check node: 0, run time: 0
+Round4: Red H05
+
+check node: 0, run time: 0
+Round5: Green D05
+
+check node: 0, run time: 0
+Round6: Blue G08
+
+check node: 0, run time: 0
+Round7: Red E04
+
+check node: 0, run time: 0
+Round8: Green G02
+
+check node: 0, run time: 0
+Round9: Blue J04
+
+check node: 0, run time: 0
+Round10: Red H07
+
+check node: 0, run time: 0
+Round11: Green J06
+
+check node: 0, run time: 0
+Round12: Blue K05
+
+check node: 0, run time: 0
+Round13: Red G09
+
+check node: 0, run time: 0
+Round14: Green F09
+
+check node: 0, run time: 0
+Round15: Blue C04
+
+check node: 1105, run time: 0.025
+Round16: Red L04
+
+check node: 821005, run time: 18.004
+Round17: Green E03
+
+check node: 912, run time: 0.021
+Round18: Blue J07
+
+check node: 830, run time: 0.018
+Round19: Red G01
+
+check node: 513908, run time: 10.701
+Round20: Green J05
+
+check node: 935, run time: 0.019
+Round21: Blue E08
+
+check node: 1020, run time: 0.023
+Round22: Red J08
+
+check node: 1062300, run time: 23.554
+Round23: Green H03
+
+check node: 1154, run time: 0.022
+Round24: Blue G10
+
+check node: 836, run time: 0.019
+Round25: Red K03
+
+check node: 570816, run time: 15.472
+Round26: Green F03
+
+check node: 734, run time: 0.016
+Round27: Blue L02
+
+check node: 669, run time: 0.02
+Round28: Red E09
+
+check node: 851688, run time: 21.443
+Round29: Green D09
+
+check node: 809, run time: 0.018
+Round30: Blue D03
+
+check node: 1154, run time: 0.031
+Round31: Red B03
+
+check node: 780035, run time: 19.708
+Round32: Green C03
+
+check node: 851, run time: 0.02
+Round33: Blue C05
+
+check node: 1385, run time: 0.031
+Round34: Red E02
+
+check node: 2104636, run time: 51.416
+Round35: Green H09
+
+check node: 1500, run time: 0.03
+Round36: Blue J03
+
+check node: 1494, run time: 0.033
+Round37: Red F11
+
+check node: 1224477, run time: 33.214
+Round38: Green L03
+
+check node: 1216, run time: 0.025
+Round39: Blue J02
+
+check node: 1471, run time: 0.032
+Round40: Red L01
+
+check node: 1003361, run time: 28.358
+Round41: Green D07
+
+check node: 669, run time: 0.014
+Round42: Blue L05
+
+check node: 729, run time: 0.017
+Round43: Red L06
+
+check node: 281191, run time: 9.579
+Round44: Green K07
+
+check node: 419, run time: 0.012
+Round45: Blue A02
+
+check node: 440, run time: 0.014
+Round46: Red K01
+
+check node: 69176, run time: 2.299
+Round47: Green J01
+
+check node: 225, run time: 0.007
+Round48: Blue H01
+
+check node: 244, run time: 0.009
+Round49: Red C02
+
+check node: 57036, run time: 2.125
+Round50: Green F01
+
+check node: 175, run time: 0.006
+Round51: Blue B01
+
+check node: 171, run time: 0.007
+Round52: Red B05
+
+check node: 18202, run time: 0.805
+Round53: Green E01
+
+check node: 103, run time: 0.004
+Round54: Blue A05
+
+check node: 75, run time: 0.004
+Round55: Red D01
+
+check node: 1599, run time: 0.081
+Round56: Green A03
+
+check node: 45, run time: 0.003
+Round57: Blue A04
+
+check node: 22, run time: 0.002
+Round58: Red C01
+
+check node: 161, run time: 0.014
+Round59: Green A01
+
+check node: 9, run time: 0.001
+Round60: Blue E07
+
+check node: 27, run time: 0.002
+Round61: Red A06
+
+check node: 114, run time: 0.003
+Round62: Green C06
+
+check node: 13, run time: 0.002
+Round63: Blue E10
+
+check node: 6, run time: 0.001
+Round64: Red C07
+
+check node: 1333, run time: 0.048
+Round65: Green B07
+
+check node: 71, run time: 0.002
+Round66: Blue C08
+
+check node: 285, run time: 0.013
+Round67: Red K02
+
+check node: 4740, run time: 0.135
+Round68: Green H04
+
+check node: 133, run time: 0.005
+Round69: Blue H02
+
+check node: 70, run time: 0.003
+Round70: Red K04
+
+check node: 12686, run time: 0.398
+Round71: Green F02
+
+check node: 100, run time: 0.003
+Round72: Blue D02
+
+check node: 113, run time: 0.004
+Round73: Red K06
+
+check node: 14468, run time: 0.476
+Round74: Green F04
+
+check node: 86, run time: 0.004
+Round75: Blue H08
+
+check node: 97, run time: 0.003
+Round76: Red H06
+
+check node: 3761, run time: 0.153
+Round77: Green F06
+
+check node: 71, run time: 0.002
+Round78: Blue B02
+
+check node: 88, run time: 0.003
+Round79: Red D04
+
+check node: 557, run time: 0.042
+Round80: Green F08
+
+check node: 26, run time: 0.002
+Round81: Blue B04
+
+check node: 31, run time: 0.002
+Round82: Red D06
+
+check node: 10, run time: 0.001
+Round83: Green B06
+
+check node: 4, run time: 0
+Round84: Blue D08
+
+check node: 1, run time: 0
+Round85: Red F10
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    G    R    R    R    R    R    x 
+   x    x    x    x    x    G    B    B    B    G    G    B    x 
+   x    x    x    x    R    B    R    B    R    G    R    B    x 
+   x    x    x    R    R    R    R    R    B    B    R    B    x 
+   x    x    G    B    G    B    R    G    R    B    R    B    x 
+   x    G    G    G    G    G    G    G    G    G    R    R    x 
+   x    G    G    G    G    G    G    G    G    R    R    x    x 
+   x    B    G    B    G    R    R    R    B    G    x    x    x 
+   x    B    G    G    R    R    R    B    G    x    x    x    x 
+   x    R    R    R    R    R    R    G    x    x    x    x    x 
+   x    R    R    G    R    R    R    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 39 33 total runtime: 240.044
+
+
+--------------------------------第8場--------------------------------
+check node: 0, run time: 0
+Round1: Red G07
+
+check node: 0, run time: 0
+Round2: Green D05
+
+check node: 0, run time: 0
+Round3: Blue H07
+
+check node: 0, run time: 0
+Round4: Red C04
+
+check node: 0, run time: 0
+Round5: Green G04
+
+check node: 0, run time: 0
+Round6: Blue B03
+
+check node: 0, run time: 0
+Round7: Red E04
+
+check node: 0, run time: 0
+Round8: Green E03
+
+check node: 0, run time: 0
+Round9: Blue H05
+
+check node: 0, run time: 0
+Round10: Red G03
+
+check node: 0, run time: 0
+Round11: Green G02
+
+check node: 0, run time: 0
+Round12: Blue H03
+
+check node: 0, run time: 0
+Round13: Red J03
+
+check node: 0, run time: 0
+Round14: Green C05
+
+check node: 0, run time: 0
+Round15: Blue G01
+
+check node: 803, run time: 0.019
+Round16: Red D03
+
+check node: 681325, run time: 15.469
+Round17: Green A02
+
+check node: 522, run time: 0.013
+Round18: Blue C02
+
+check node: 348, run time: 0.009
+Round19: Red E02
+
+check node: 185046, run time: 4.768
+Round20: Green F03
+
+check node: 456, run time: 0.009
+Round21: Blue D01
+
+check node: 380, run time: 0.013
+Round22: Red C03
+
+check node: 676235, run time: 15.792
+Round23: Green J05
+
+check node: 1026, run time: 0.02
+Round24: Blue J04
+
+check node: 1110, run time: 0.026
+Round25: Red B01
+
+check node: 629597, run time: 14.496
+Round26: Green J02
+
+check node: 1079, run time: 0.026
+Round27: Blue K03
+
+check node: 874, run time: 0.021
+Round28: Red C06
+
+check node: 394333, run time: 9.573
+Round29: Green H01
+
+check node: 518, run time: 0.015
+Round30: Blue J01
+
+check node: 567, run time: 0.017
+Round31: Red L03
+
+check node: 270401, run time: 7.92
+Round32: Green G08
+
+check node: 637, run time: 0.016
+Round33: Blue F09
+
+check node: 569, run time: 0.016
+Round34: Red E07
+
+check node: 439015, run time: 11.403
+Round35: Green J07
+
+check node: 710, run time: 0.017
+Round36: Blue K07
+
+check node: 491, run time: 0.013
+Round37: Red G09
+
+check node: 583240, run time: 15.393
+Round38: Green G10
+
+check node: 710, run time: 0.017
+Round39: Blue D07
+
+check node: 687, run time: 0.018
+Round40: Red A03
+
+check node: 354756, run time: 9.115
+Round41: Green A04
+
+check node: 441, run time: 0.016
+Round42: Blue B05
+
+check node: 573, run time: 0.019
+Round43: Red E08
+
+check node: 228741, run time: 7.063
+Round44: Green C07
+
+check node: 625, run time: 0.015
+Round45: Blue E09
+
+check node: 713, run time: 0.019
+Round46: Red C08
+
+check node: 269364, run time: 8.121
+Round47: Green J06
+
+check node: 465, run time: 0.013
+Round48: Blue L02
+
+check node: 612, run time: 0.018
+Round49: Red L01
+
+check node: 94267, run time: 3.261
+Round50: Green E10
+
+check node: 311, run time: 0.012
+Round51: Blue K05
+
+check node: 369, run time: 0.015
+Round52: Red L04
+
+check node: 56113, run time: 2.122
+Round53: Green L05
+
+check node: 274, run time: 0.009
+Round54: Blue L06
+
+check node: 192, run time: 0.007
+Round55: Red K01
+
+check node: 18085, run time: 0.871
+Round56: Green F01
+
+check node: 138, run time: 0.006
+Round57: Blue C01
+
+check node: 112, run time: 0.005
+Round58: Red J08
+
+check node: 3433, run time: 0.205
+Round59: Green A01
+
+check node: 64, run time: 0.003
+Round60: Blue H09
+
+check node: 33, run time: 0.002
+Round61: Red F11
+
+check node: 3669, run time: 0.149
+Round62: Green E01
+
+check node: 117, run time: 0.007
+Round63: Blue D09
+
+check node: 520, run time: 0.026
+Round64: Red K02
+
+check node: 1445, run time: 0.056
+Round65: Green K04
+
+check node: 59, run time: 0.003
+Round66: Blue K06
+
+check node: 69, run time: 0.003
+Round67: Red H04
+
+check node: 49750, run time: 1.549
+Round68: Green A05
+
+check node: 111, run time: 0.005
+Round69: Blue H06
+
+check node: 115, run time: 0.003
+Round70: Red F06
+
+check node: 42308, run time: 1.321
+Round71: Green H02
+
+check node: 243, run time: 0.009
+Round72: Blue F02
+
+check node: 180, run time: 0.007
+Round73: Red F04
+
+check node: 20026, run time: 0.718
+Round74: Green H08
+
+check node: 171, run time: 0.005
+Round75: Blue F08
+
+check node: 143, run time: 0.004
+Round76: Red D08
+
+check node: 9332, run time: 0.379
+Round77: Green D06
+
+check node: 134, run time: 0.004
+Round78: Blue F10
+
+check node: 67, run time: 0.003
+Round79: Red D02
+
+check node: 821, run time: 0.061
+Round80: Green D04
+
+check node: 34, run time: 0.001
+Round81: Blue B06
+
+check node: 38, run time: 0.002
+Round82: Red A06
+
+check node: 15, run time: 0.001
+Round83: Green B07
+
+check node: 4, run time: 0
+Round84: Blue B02
+
+check node: 1, run time: 0
+Round85: Red B04
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    G    G    G    G    G    R    x 
+   x    x    x    x    x    G    B    R    R    G    G    G    x 
+   x    x    x    x    G    B    B    R    R    R    G    G    x 
+   x    x    x    G    G    G    G    G    G    G    B    B    x 
+   x    x    G    R    R    G    G    G    G    R    B    B    x 
+   x    G    B    R    R    R    G    B    B    B    B    R    x 
+   x    G    B    R    R    G    R    B    B    B    R    x    x 
+   x    G    B    G    G    B    B    G    G    B    x    x    x 
+   x    G    R    R    R    B    B    G    B    x    x    x    x 
+   x    R    R    B    R    B    B    B    x    x    x    x    x 
+   x    R    R    R    R    B    B    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 27 35 total runtime: 131.839
+
+
+--------------------------------第9場--------------------------------
+check node: 0, run time: 0
+Round1: Red G07
+
+check node: 0, run time: 0
+Round2: Green E04
+
+check node: 0, run time: 0
+Round3: Blue D05
+
+check node: 0, run time: 0
+Round4: Red C04
+
+check node: 0, run time: 0
+Round5: Green G08
+
+check node: 0, run time: 0
+Round6: Blue B03
+
+check node: 0, run time: 0
+Round7: Red C05
+
+check node: 0, run time: 0
+Round8: Green E07
+
+check node: 0, run time: 0
+Round9: Blue G04
+
+check node: 0, run time: 0
+Round10: Red H05
+
+check node: 0, run time: 0
+Round11: Green A02
+
+check node: 0, run time: 0
+Round12: Blue H07
+
+check node: 0, run time: 0
+Round13: Red D03
+
+check node: 0, run time: 0
+Round14: Green E03
+
+check node: 0, run time: 0
+Round15: Blue E02
+
+check node: 1507, run time: 0.029
+Round16: Red E01
+
+check node: 848848, run time: 18.12
+Round17: Green J05
+
+check node: 1084, run time: 0.023
+Round18: Blue B05
+
+check node: 750, run time: 0.017
+Round19: Red G09
+
+check node: 477793, run time: 10.863
+Round20: Green C06
+
+check node: 800, run time: 0.016
+Round21: Blue D07
+
+check node: 961, run time: 0.024
+Round22: Red A05
+
+check node: 566951, run time: 14.275
+Round23: Green G10
+
+check node: 647, run time: 0.015
+Round24: Blue C03
+
+check node: 978, run time: 0.023
+Round25: Red H03
+
+check node: 462126, run time: 13.502
+Round26: Green E08
+
+check node: 862, run time: 0.024
+Round27: Blue F09
+
+check node: 735, run time: 0.016
+Round28: Red H09
+
+check node: 410047, run time: 13.243
+Round29: Green J08
+
+check node: 582, run time: 0.016
+Round30: Blue G03
+
+check node: 875, run time: 0.021
+Round31: Red J04
+
+check node: 735753, run time: 19.817
+Round32: Green J07
+
+check node: 1003, run time: 0.026
+Round33: Blue A04
+
+check node: 602, run time: 0.022
+Round34: Red E09
+
+check node: 825861, run time: 24.898
+Round35: Green A06
+
+check node: 1030, run time: 0.03
+Round36: Blue C02
+
+check node: 1134, run time: 0.029
+Round37: Red C01
+
+check node: 699898, run time: 20.109
+Round38: Green A03
+
+check node: 620, run time: 0.017
+Round39: Blue D09
+
+check node: 600, run time: 0.015
+Round40: Red C07
+
+check node: 306131, run time: 9.865
+Round41: Green B07
+
+check node: 538, run time: 0.015
+Round42: Blue K03
+
+check node: 632, run time: 0.016
+Round43: Red L02
+
+check node: 146935, run time: 4.498
+Round44: Green J03
+
+check node: 466, run time: 0.014
+Round45: Blue L03
+
+check node: 588, run time: 0.015
+Round46: Red L04
+
+check node: 71664, run time: 2.142
+Round47: Green F03
+
+check node: 336, run time: 0.013
+Round48: Blue G02
+
+check node: 405, run time: 0.012
+Round49: Red C08
+
+check node: 52099, run time: 1.772
+Round50: Green H01
+
+check node: 238, run time: 0.01
+Round51: Blue D01
+
+check node: 205, run time: 0.006
+Round52: Red K05
+
+check node: 33770, run time: 1.3
+Round53: Green F01
+
+check node: 174, run time: 0.008
+Round54: Blue J06
+
+check node: 101, run time: 0.003
+Round55: Red J02
+
+check node: 11663, run time: 0.544
+Round56: Green J01
+
+check node: 96, run time: 0.006
+Round57: Blue G01
+
+check node: 62, run time: 0.003
+Round58: Red K07
+
+check node: 2039, run time: 0.123
+Round59: Green E10
+
+check node: 45, run time: 0.003
+Round60: Blue F11
+
+check node: 18, run time: 0
+Round61: Red K01
+
+check node: 11207, run time: 0.454
+Round62: Green L01
+
+check node: 104, run time: 0.005
+Round63: Blue L06
+
+check node: 467, run time: 0.018
+Round64: Red L05
+
+check node: 890, run time: 0.035
+Round65: Green B01
+
+check node: 55, run time: 0.003
+Round66: Blue A01
+
+check node: 203, run time: 0.01
+Round67: Red K02
+
+check node: 664, run time: 0.024
+Round68: Green K04
+
+check node: 28, run time: 0.001
+Round69: Blue K06
+
+check node: 31, run time: 0.001
+Round70: Red H04
+
+check node: 8854, run time: 0.273
+Round71: Green H08
+
+check node: 48, run time: 0.002
+Round72: Blue F10
+
+check node: 125, run time: 0.005
+Round73: Red D08
+
+check node: 16815, run time: 0.508
+Round74: Green B06
+
+check node: 96, run time: 0.003
+Round75: Blue D06
+
+check node: 161, run time: 0.005
+Round76: Red F06
+
+check node: 6631, run time: 0.278
+Round77: Green F08
+
+check node: 42, run time: 0.002
+Round78: Blue H06
+
+check node: 31, run time: 0.001
+Round79: Red F04
+
+check node: 596, run time: 0.044
+Round80: Green H02
+
+check node: 49, run time: 0.003
+Round81: Blue D04
+
+check node: 27, run time: 0.002
+Round82: Red F02
+
+check node: 15, run time: 0.001
+Round83: Green B04
+
+check node: 4, run time: 0
+Round84: Blue D02
+
+check node: 1, run time: 0
+Round85: Red B02
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    B    G    G    G    G    G    x 
+   x    x    x    x    x    B    R    G    G    G    G    G    x 
+   x    x    x    x    B    R    R    G    G    B    G    R    x 
+   x    x    x    B    B    B    B    B    B    B    B    B    x 
+   x    x    G    B    B    B    B    R    G    B    G    B    x 
+   x    G    R    R    R    R    B    G    B    B    B    B    x 
+   x    B    R    G    R    R    B    B    G    B    B    x    x 
+   x    G    G    G    G    G    B    B    G    B    x    x    x 
+   x    G    R    R    R    B    B    G    B    x    x    x    x 
+   x    G    R    G    R    B    B    B    x    x    x    x    x 
+   x    G    R    R    R    R    B    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 21 31 total runtime: 158.725
+
+
+--------------------------------第10場--------------------------------
+check node: 0, run time: 0
+Round1: Red H05
+
+check node: 0, run time: 0
+Round2: Green E07
+
+check node: 0, run time: 0
+Round3: Blue D05
+
+check node: 0, run time: 0
+Round4: Red C04
+
+check node: 0, run time: 0
+Round5: Green J04
+
+check node: 0, run time: 0
+Round6: Blue E08
+
+check node: 0, run time: 0
+Round7: Red G04
+
+check node: 0, run time: 0
+Round8: Green B03
+
+check node: 0, run time: 0
+Round9: Blue J05
+
+check node: 0, run time: 0
+Round10: Red K05
+
+check node: 0, run time: 0
+Round11: Green G03
+
+check node: 0, run time: 0
+Round12: Blue H03
+
+check node: 0, run time: 0
+Round13: Red E09
+
+check node: 0, run time: 0
+Round14: Green D07
+
+check node: 0, run time: 0
+Round15: Blue F03
+
+check node: 932, run time: 0.02
+Round16: Red G02
+
+check node: 2302949, run time: 50.23
+Round17: Green E10
+
+check node: 1010, run time: 0.027
+Round18: Blue A02
+
+check node: 837, run time: 0.02
+Round19: Red K03
+
+check node: 511524, run time: 13.368
+Round20: Green H01
+
+check node: 564, run time: 0.013
+Round21: Blue L05
+
+check node: 717, run time: 0.019
+Round22: Red J06
+
+check node: 611732, run time: 13.38
+Round23: Green J02
+
+check node: 758, run time: 0.017
+Round24: Blue K01
+
+check node: 659, run time: 0.017
+Round25: Red E02
+
+check node: 451022, run time: 11.435
+Round26: Green D01
+
+check node: 397, run time: 0.011
+Round27: Blue H07
+
+check node: 335, run time: 0.011
+Round28: Red G01
+
+check node: 227411, run time: 6.07
+Round29: Green F01
+
+check node: 328, run time: 0.01
+Round30: Blue J03
+
+check node: 189, run time: 0.006
+Round31: Red E03
+
+check node: 58831, run time: 1.83
+Round32: Green D03
+
+check node: 168, run time: 0.006
+Round33: Blue E04
+
+check node: 190, run time: 0.006
+Round34: Red E01
+
+check node: 44881, run time: 1.311
+Round35: Green L03
+
+check node: 241, run time: 0.01
+Round36: Blue G07
+
+check node: 220, run time: 0.007
+Round37: Red C02
+
+check node: 63824, run time: 1.952
+Round38: Green C03
+
+check node: 215, run time: 0.007
+Round39: Blue B01
+
+check node: 205, run time: 0.007
+Round40: Red C01
+
+check node: 20310, run time: 0.665
+Round41: Green A01
+
+check node: 92, run time: 0.003
+Round42: Blue C07
+
+check node: 216, run time: 0.01
+Round43: Red B07
+
+check node: 55061, run time: 1.623
+Round44: Green A03
+
+check node: 157, run time: 0.006
+Round45: Blue F09
+
+check node: 271, run time: 0.011
+Round46: Red G09
+
+check node: 32528, run time: 1.263
+Round47: Green C05
+
+check node: 234, run time: 0.009
+Round48: Blue C06
+
+check node: 272, run time: 0.011
+Round49: Red B05
+
+check node: 57461, run time: 2.088
+Round50: Green C08
+
+check node: 322, run time: 0.009
+Round51: Blue A06
+
+check node: 250, run time: 0.008
+Round52: Red G08
+
+check node: 49462, run time: 2.044
+Round53: Green J01
+
+check node: 246, run time: 0.008
+Round54: Blue A05
+
+check node: 203, run time: 0.008
+Round55: Red L01
+
+check node: 9877, run time: 0.456
+Round56: Green A04
+
+check node: 85, run time: 0.004
+Round57: Blue D09
+
+check node: 95, run time: 0.005
+Round58: Red F11
+
+check node: 1459, run time: 0.102
+Round59: Green G10
+
+check node: 27, run time: 0.002
+Round60: Blue L02
+
+check node: 28, run time: 0.002
+Round61: Red H09
+
+check node: 1253, run time: 0.045
+Round62: Green J07
+
+check node: 41, run time: 0.002
+Round63: Blue J08
+
+check node: 39, run time: 0.001
+Round64: Red K07
+
+check node: 11045, run time: 0.39
+Round65: Green L04
+
+check node: 410, run time: 0.015
+Round66: Blue L06
+
+check node: 354, run time: 0.015
+Round67: Red F10
+
+check node: 961, run time: 0.033
+Round68: Green D08
+
+check node: 37, run time: 0.003
+Round69: Blue B06
+
+check node: 27, run time: 0.001
+Round70: Red B04
+
+check node: 8209, run time: 0.283
+Round71: Green D04
+
+check node: 100, run time: 0.004
+Round72: Blue D06
+
+check node: 95, run time: 0.003
+Round73: Red D02
+
+check node: 6119, run time: 0.25
+Round74: Green B02
+
+check node: 53, run time: 0.003
+Round75: Blue F02
+
+check node: 56, run time: 0.002
+Round76: Red F04
+
+check node: 4025, run time: 0.203
+Round77: Green H02
+
+check node: 55, run time: 0.002
+Round78: Blue F06
+
+check node: 47, run time: 0.002
+Round79: Red K02
+
+check node: 339, run time: 0.036
+Round80: Green H04
+
+check node: 27, run time: 0.002
+Round81: Blue F08
+
+check node: 15, run time: 0.001
+Round82: Red K04
+
+check node: 5, run time: 0
+Round83: Green H06
+
+check node: 4, run time: 0
+Round84: Blue H08
+
+check node: 1, run time: 0
+Round85: Red K06
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    G    G    G    G    B    B    x 
+   x    x    x    x    x    G    G    G    R    R    B    B    x 
+   x    x    x    x    R    B    G    G    B    B    B    B    x 
+   x    x    x    R    B    R    G    R    B    B    B    B    x 
+   x    x    R    B    R    G    G    B    B    B    B    R    x 
+   x    G    B    R    B    B    B    B    B    R    R    R    x 
+   x    G    R    G    G    B    G    G    B    R    R    x    x 
+   x    G    R    B    B    B    B    B    B    R    x    x    x 
+   x    G    R    G    R    G    R    R    R    x    x    x    x 
+   x    R    R    R    R    R    R    R    x    x    x    x    x 
+   x    R    B    G    G    B    B    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 31 24 total runtime: 110.974
+
+
+--------------------------------第11場--------------------------------
+check node: 0, run time: 0
+Round1: Red E04
+
+check node: 0, run time: 0
+Round2: Green E03
+
+check node: 0, run time: 0
+Round3: Blue H05
+
+check node: 0, run time: 0
+Round4: Red D03
+
+check node: 0, run time: 0
+Round5: Green J05
+
+check node: 0, run time: 0
+Round6: Blue E02
+
+check node: 0, run time: 0
+Round7: Red K05
+
+check node: 0, run time: 0
+Round8: Green E07
+
+check node: 0, run time: 0
+Round9: Blue D05
+
+check node: 0, run time: 0
+Round10: Red F03
+
+check node: 0, run time: 0
+Round11: Green C04
+
+check node: 0, run time: 0
+Round12: Blue G07
+
+check node: 0, run time: 0
+Round13: Red E01
+
+check node: 0, run time: 0
+Round14: Green G04
+
+check node: 0, run time: 0
+Round15: Blue C05
+
+check node: 910, run time: 0.02
+Round16: Red B03
+
+check node: 682315, run time: 16.001
+Round17: Green J04
+
+check node: 1214, run time: 0.026
+Round18: Blue L05
+
+check node: 1087, run time: 0.023
+Round19: Red D07
+
+check node: 899589, run time: 20.808
+Round20: Green A02
+
+check node: 796, run time: 0.022
+Round21: Blue H03
+
+check node: 689, run time: 0.02
+Round22: Red K03
+
+check node: 425615, run time: 10.545
+Round23: Green L02
+
+check node: 399, run time: 0.01
+Round24: Blue C03
+
+check node: 514, run time: 0.012
+Round25: Red A03
+
+check node: 86795, run time: 2.518
+Round26: Green A04
+
+check node: 326, run time: 0.008
+Round27: Blue J03
+
+check node: 293, run time: 0.007
+Round28: Red G03
+
+check node: 492842, run time: 12.607
+Round29: Green B05
+
+check node: 727, run time: 0.019
+Round30: Blue D01
+
+check node: 627, run time: 0.025
+Round31: Red C01
+
+check node: 251622, run time: 6.609
+Round32: Green H07
+
+check node: 569, run time: 0.016
+Round33: Blue C02
+
+check node: 437, run time: 0.012
+Round34: Red B01
+
+check node: 125120, run time: 3.799
+Round35: Green G02
+
+check node: 487, run time: 0.017
+Round36: Blue E08
+
+check node: 518, run time: 0.015
+Round37: Red H01
+
+check node: 182914, run time: 6.191
+Round38: Green G01
+
+check node: 565, run time: 0.017
+Round39: Blue F01
+
+check node: 181, run time: 0.012
+Round40: Red E09
+
+check node: 84179, run time: 3.043
+Round41: Green A01
+
+check node: 393, run time: 0.015
+Round42: Blue J01
+
+check node: 244, run time: 0.008
+Round43: Red A05
+
+check node: 48196, run time: 1.793
+Round44: Green A06
+
+check node: 223, run time: 0.01
+Round45: Blue E10
+
+check node: 184, run time: 0.007
+Round46: Red F09
+
+check node: 50186, run time: 1.742
+Round47: Green J02
+
+check node: 269, run time: 0.011
+Round48: Blue K01
+
+check node: 131, run time: 0.004
+Round49: Red D09
+
+check node: 21480, run time: 0.904
+Round50: Green F11
+
+check node: 138, run time: 0.01
+Round51: Blue G08
+
+check node: 159, run time: 0.006
+Round52: Red J07
+
+check node: 23559, run time: 1.048
+Round53: Green C08
+
+check node: 106, run time: 0.005
+Round54: Blue K07
+
+check node: 78, run time: 0.003
+Round55: Red L03
+
+check node: 8086, run time: 0.412
+Round56: Green J06
+
+check node: 137, run time: 0.006
+Round57: Blue L01
+
+check node: 73, run time: 0.004
+Round58: Red G09
+
+check node: 2919, run time: 0.205
+Round59: Green C06
+
+check node: 69, run time: 0.004
+Round60: Blue L04
+
+check node: 29, run time: 0.003
+Round61: Red C07
+
+check node: 1351, run time: 0.057
+Round62: Green G10
+
+check node: 10, run time: 0.002
+Round63: Blue B07
+
+check node: 40, run time: 0.001
+Round64: Red J08
+
+check node: 9420, run time: 0.42
+Round65: Green L06
+
+check node: 69, run time: 0.005
+Round66: Blue H09
+
+check node: 288, run time: 0.016
+Round67: Red F04
+
+check node: 11469, run time: 0.345
+Round68: Green D04
+
+check node: 252, run time: 0.008
+Round69: Blue F06
+
+check node: 388, run time: 0.01
+Round70: Red H06
+
+check node: 312346, run time: 8.369
+Round71: Green B02
+
+check node: 641, run time: 0.016
+Round72: Blue F08
+
+check node: 596, run time: 0.014
+Round73: Red H02
+
+check node: 199852, run time: 5.964
+Round74: Green F10
+
+check node: 547, run time: 0.014
+Round75: Blue F02
+
+check node: 395, run time: 0.01
+Round76: Red H04
+
+check node: 22039, run time: 0.871
+Round77: Green H08
+
+check node: 170, run time: 0.005
+Round78: Blue B04
+
+check node: 145, run time: 0.005
+Round79: Red K02
+
+check node: 1258, run time: 0.092
+Round80: Green K04
+
+check node: 60, run time: 0.002
+Round81: Blue D06
+
+check node: 30, run time: 0.002
+Round82: Red K06
+
+check node: 15, run time: 0.002
+Round83: Green D02
+
+check node: 4, run time: 0.001
+Round84: Blue D08
+
+check node: 1, run time: 0
+Round85: Red B06
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    G    G    G    G    G    G    x 
+   x    x    x    x    x    G    G    B    B    R    R    B    x 
+   x    x    x    x    G    G    G    B    B    R    R    G    x 
+   x    x    x    G    G    G    G    G    B    B    R    G    x 
+   x    x    G    B    G    R    R    B    B    B    R    G    x 
+   x    B    B    B    B    B    B    B    B    G    G    G    x 
+   x    B    B    R    R    R    R    B    G    G    G    x    x 
+   x    B    R    R    R    R    R    G    G    B    x    x    x 
+   x    B    R    R    G    G    R    R    B    x    x    x    x 
+   x    B    G    G    G    R    R    G    x    x    x    x    x 
+   x    B    B    B    B    B    G    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 23 36 total runtime: 106.436
+
+
+--------------------------------第12場--------------------------------
+check node: 0, run time: 0
+Round1: Red G04
+
+check node: 0, run time: 0
+Round2: Green G07
+
+check node: 0, run time: 0
+Round3: Blue E04
+
+check node: 0, run time: 0
+Round4: Red G08
+
+check node: 0, run time: 0
+Round5: Green H03
+
+check node: 0, run time: 0
+Round6: Blue H07
+
+check node: 0, run time: 0
+Round7: Red E03
+
+check node: 0, run time: 0
+Round8: Green J06
+
+check node: 0, run time: 0
+Round9: Blue H05
+
+check node: 0, run time: 0
+Round10: Red G03
+
+check node: 0, run time: 0
+Round11: Green F09
+
+check node: 0, run time: 0
+Round12: Blue J02
+
+check node: 0, run time: 0
+Round13: Red D05
+
+check node: 0, run time: 0
+Round14: Green D03
+
+check node: 0, run time: 0
+Round15: Blue G09
+
+check node: 1977, run time: 0.038
+Round16: Red J04
+
+check node: 2473602, run time: 51.822
+Round17: Green J03
+
+check node: 2198, run time: 0.04
+Round18: Blue E08
+
+check node: 1389, run time: 0.028
+Round19: Red G10
+
+check node: 2403944, run time: 50.572
+Round20: Green J01
+
+check node: 1461, run time: 0.031
+Round21: Blue J05
+
+check node: 1221, run time: 0.024
+Round22: Red C03
+
+check node: 1828528, run time: 41.709
+Round23: Green F03
+
+check node: 1215, run time: 0.025
+Round24: Blue G02
+
+check node: 1531, run time: 0.031
+Round25: Red K05
+
+check node: 2154741, run time: 49.222
+Round26: Green L04
+
+check node: 1428, run time: 0.028
+Round27: Blue J07
+
+check node: 1688, run time: 0.035
+Round28: Red J08
+
+check node: 2027947, run time: 45.111
+Round29: Green C05
+
+check node: 1423, run time: 0.029
+Round30: Blue C02
+
+check node: 1858, run time: 0.038
+Round31: Red H01
+
+check node: 1799616, run time: 40.703
+Round32: Green G01
+
+check node: 1135, run time: 0.024
+Round33: Blue E02
+
+check node: 1430, run time: 0.032
+Round34: Red B01
+
+check node: 782077, run time: 18.576
+Round35: Green D01
+
+check node: 660, run time: 0.017
+Round36: Blue H09
+
+check node: 550, run time: 0.014
+Round37: Red K01
+
+check node: 449076, run time: 11.941
+Round38: Green F11
+
+check node: 517, run time: 0.016
+Round39: Blue F01
+
+check node: 450, run time: 0.01
+Round40: Red K03
+
+check node: 193449, run time: 5.36
+Round41: Green L01
+
+check node: 360, run time: 0.012
+Round42: Blue E01
+
+check node: 279, run time: 0.009
+Round43: Red L05
+
+check node: 109163, run time: 3.558
+Round44: Green L06
+
+check node: 249, run time: 0.008
+Round45: Blue C01
+
+check node: 207, run time: 0.005
+Round46: Red E09
+
+check node: 106793, run time: 4.165
+Round47: Green A01
+
+check node: 273, run time: 0.009
+Round48: Blue K07
+
+check node: 215, run time: 0.007
+Round49: Red B05
+
+check node: 32183, run time: 1.773
+Round50: Green E10
+
+check node: 160, run time: 0.006
+Round51: Blue A05
+
+check node: 131, run time: 0.008
+Round52: Red D07
+
+check node: 14356, run time: 0.775
+Round53: Green C06
+
+check node: 196, run time: 0.008
+Round54: Blue D09
+
+check node: 201, run time: 0.008
+Round55: Red A04
+
+check node: 23012, run time: 1.26
+Round56: Green A06
+
+check node: 179, run time: 0.009
+Round57: Blue C04
+
+check node: 118, run time: 0.006
+Round58: Red C07
+
+check node: 3841, run time: 0.333
+Round59: Green C08
+
+check node: 39, run time: 0.002
+Round60: Blue E07
+
+check node: 36, run time: 0.002
+Round61: Red B07
+
+check node: 1091, run time: 0.051
+Round62: Green L02
+
+check node: 12, run time: 0.001
+Round63: Blue L03
+
+check node: 5, run time: 0.001
+Round64: Red B03
+
+check node: 1542, run time: 0.074
+Round65: Green A03
+
+check node: 48, run time: 0.003
+Round66: Blue A02
+
+check node: 166, run time: 0.009
+Round67: Red H04
+
+check node: 6961, run time: 0.243
+Round68: Green F04
+
+check node: 117, run time: 0.005
+Round69: Blue F02
+
+check node: 120, run time: 0.005
+Round70: Red D02
+
+check node: 20651, run time: 0.765
+Round71: Green H02
+
+check node: 114, run time: 0.004
+Round72: Blue D04
+
+check node: 187, run time: 0.005
+Round73: Red B02
+
+check node: 19340, run time: 0.625
+Round74: Green K02
+
+check node: 127, run time: 0.004
+Round75: Blue F06
+
+check node: 111, run time: 0.004
+Round76: Red F08
+
+check node: 15705, run time: 0.592
+Round77: Green F10
+
+check node: 131, run time: 0.004
+Round78: Blue K04
+
+check node: 136, run time: 0.005
+Round79: Red H08
+
+check node: 1131, run time: 0.083
+Round80: Green H06
+
+check node: 41, run time: 0.002
+Round81: Blue K06
+
+check node: 27, run time: 0.001
+Round82: Red D06
+
+check node: 10, run time: 0
+Round83: Green D08
+
+check node: 4, run time: 0
+Round84: Blue B04
+
+check node: 1, run time: 0
+Round85: Red B06
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    G    B    G    G    G    G    x 
+   x    x    x    x    x    G    R    B    B    R    R    R    x 
+   x    x    x    x    B    R    R    B    B    R    R    G    x 
+   x    x    x    B    R    B    B    G    R    G    G    G    x 
+   x    x    B    B    R    B    B    R    R    G    G    G    x 
+   x    B    B    B    R    B    B    R    G    G    G    G    x 
+   x    B    G    G    G    B    G    G    R    R    G    x    x 
+   x    B    G    G    B    G    G    G    R    B    x    x    x 
+   x    B    G    B    B    G    B    B    B    x    x    x    x 
+   x    G    G    B    B    B    B    B    x    x    x    x    x 
+   x    G    G    B    G    G    G    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 18 38 total runtime: 331.576
+
+
+--------------------------------第13場--------------------------------
+check node: 0, run time: 0
+Round1: Red D05
+
+check node: 0, run time: 0
+Round2: Green C05
+
+check node: 0, run time: 0
+Round3: Blue H05
+
+check node: 0, run time: 0
+Round4: Red B05
+
+check node: 0, run time: 0
+Round5: Green G07
+
+check node: 0, run time: 0.001
+Round6: Blue C04
+
+check node: 0, run time: 0
+Round7: Red B03
+
+check node: 0, run time: 0
+Round8: Green J04
+
+check node: 0, run time: 0
+Round9: Blue H07
+
+check node: 0, run time: 0
+Round10: Red E04
+
+check node: 0, run time: 0
+Round11: Green A02
+
+check node: 0, run time: 0
+Round12: Blue E07
+
+check node: 0, run time: 0
+Round13: Red E08
+
+check node: 0, run time: 0
+Round14: Green G04
+
+check node: 0, run time: 0
+Round15: Blue H03
+
+check node: 847, run time: 0.017
+Round16: Red J02
+
+check node: 350835, run time: 8.549
+Round17: Green D03
+
+check node: 637, run time: 0.015
+Round18: Blue A05
+
+check node: 520, run time: 0.012
+Round19: Red K03
+
+check node: 589012, run time: 15.476
+Round20: Green L02
+
+check node: 366, run time: 0.009
+Round21: Blue K01
+
+check node: 331, run time: 0.009
+Round22: Red C03
+
+check node: 184441, run time: 5.225
+Round23: Green J07
+
+check node: 383, run time: 0.012
+Round24: Blue K07
+
+check node: 296, run time: 0.007
+Round25: Red G03
+
+check node: 269319, run time: 7.7
+Round26: Green C06
+
+check node: 576, run time: 0.015
+Round27: Blue G02
+
+check node: 352, run time: 0.011
+Round28: Red C07
+
+check node: 67924, run time: 2.124
+Round29: Green G01
+
+check node: 267, run time: 0.009
+Round30: Blue F03
+
+check node: 235, run time: 0.008
+Round31: Red A04
+
+check node: 44123, run time: 1.383
+Round32: Green A06
+
+check node: 182, run time: 0.006
+Round33: Blue D07
+
+check node: 228, run time: 0.007
+Round34: Red E03
+
+check node: 265848, run time: 7.898
+Round35: Green A03
+
+check node: 332, run time: 0.01
+Round36: Blue F09
+
+check node: 358, run time: 0.011
+Round37: Red J05
+
+check node: 163480, run time: 5.288
+Round38: Green B07
+
+check node: 391, run time: 0.013
+Round39: Blue E02
+
+check node: 431, run time: 0.015
+Round40: Red C08
+
+check node: 184198, run time: 5.746
+Round41: Green D09
+
+check node: 354, run time: 0.013
+Round42: Blue K05
+
+check node: 306, run time: 0.015
+Round43: Red L05
+
+check node: 69026, run time: 2.195
+Round44: Green G09
+
+check node: 279, run time: 0.01
+Round45: Blue H09
+
+check node: 176, run time: 0.009
+Round46: Red E01
+
+check node: 46585, run time: 1.602
+Round47: Green C02
+
+check node: 203, run time: 0.008
+Round48: Blue B01
+
+check node: 175, run time: 0.007
+Round49: Red G08
+
+check node: 40197, run time: 1.361
+Round50: Green J06
+
+check node: 205, run time: 0.007
+Round51: Blue J03
+
+check node: 159, run time: 0.006
+Round52: Red L03
+
+check node: 17010, run time: 0.705
+Round53: Green E09
+
+check node: 156, run time: 0.006
+Round54: Blue L01
+
+check node: 108, run time: 0.004
+Round55: Red E10
+
+check node: 5233, run time: 0.299
+Round56: Green F11
+
+check node: 59, run time: 0.003
+Round57: Blue L04
+
+check node: 57, run time: 0.003
+Round58: Red G10
+
+check node: 1278, run time: 0.095
+Round59: Green L06
+
+check node: 33, run time: 0.002
+Round60: Blue H01
+
+check node: 41, run time: 0.004
+Round61: Red F01
+
+check node: 1557, run time: 0.057
+Round62: Green J08
+
+check node: 6, run time: 0
+Round63: Blue D01
+
+check node: 51, run time: 0.001
+Round64: Red J01
+
+check node: 8067, run time: 0.279
+Round65: Green C01
+
+check node: 342, run time: 0.014
+Round66: Blue A01
+
+check node: 300, run time: 0.013
+Round67: Red F02
+
+check node: 5328, run time: 0.165
+Round68: Green H02
+
+check node: 17, run time: 0.001
+Round69: Blue K02
+
+check node: 81, run time: 0.003
+Round70: Red D02
+
+check node: 17097, run time: 0.525
+Round71: Green K04
+
+check node: 154, run time: 0.006
+Round72: Blue F04
+
+check node: 92, run time: 0.003
+Round73: Red B02
+
+check node: 23145, run time: 0.759
+Round74: Green H04
+
+check node: 100, run time: 0.004
+Round75: Blue H06
+
+check node: 144, run time: 0.005
+Round76: Red D04
+
+check node: 10127, run time: 0.369
+Round77: Green K06
+
+check node: 77, run time: 0.004
+Round78: Blue H08
+
+check node: 67, run time: 0.002
+Round79: Red F06
+
+check node: 483, run time: 0.038
+Round80: Green F10
+
+check node: 42, run time: 0.002
+Round81: Blue D06
+
+check node: 28, run time: 0.002
+Round82: Red F08
+
+check node: 5, run time: 0.001
+Round83: Green D08
+
+check node: 4, run time: 0
+Round84: Blue B06
+
+check node: 1, run time: 0
+Round85: Red B04
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    B    G    G    G    G    G    x 
+   x    x    x    x    x    B    R    R    R    R    B    G    x 
+   x    x    x    x    G    R    R    R    R    B    B    G    x 
+   x    x    x    G    B    R    R    G    B    G    B    G    x 
+   x    x    R    R    B    R    R    B    R    G    B    G    x 
+   x    R    R    B    B    R    R    R    G    G    B    G    x 
+   x    R    G    B    G    B    R    G    R    G    R    x    x 
+   x    R    G    G    G    B    B    B    B    G    x    x    x 
+   x    R    B    G    G    B    G    B    G    x    x    x    x 
+   x    B    B    G    G    G    G    G    x    x    x    x    x 
+   x    B    B    B    B    G    G    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 26 36 total runtime: 69.787
+
+
+--------------------------------第14場--------------------------------
+check node: 0, run time: 0
+Round1: Red H05
+
+check node: 0, run time: 0
+Round2: Green G07
+
+check node: 0, run time: 0
+Round3: Blue G04
+
+check node: 0, run time: 0
+Round4: Red G03
+
+check node: 0, run time: 0
+Round5: Green J05
+
+check node: 0, run time: 0
+Round6: Blue E04
+
+check node: 0, run time: 0
+Round7: Red D05
+
+check node: 0, run time: 0
+Round8: Green C04
+
+check node: 0, run time: 0
+Round9: Blue G08
+
+check node: 0, run time: 0.001
+Round10: Red K05
+
+check node: 0, run time: 0
+Round11: Green J04
+
+check node: 0, run time: 0
+Round12: Blue H03
+
+check node: 0, run time: 0
+Round13: Red E03
+
+check node: 0, run time: 0
+Round14: Green J06
+
+check node: 0, run time: 0
+Round15: Blue H07
+
+check node: 1078, run time: 0.022
+Round16: Red G09
+
+check node: 1337159, run time: 31.295
+Round17: Green D03
+
+check node: 1448, run time: 0.029
+Round18: Blue L04
+
+check node: 1167, run time: 0.026
+Round19: Red C03
+
+check node: 1147192, run time: 25.805
+Round20: Green G10
+
+check node: 918, run time: 0.02
+Round21: Blue F03
+
+check node: 717, run time: 0.019
+Round22: Red G02
+
+check node: 592250, run time: 13.122
+Round23: Green G01
+
+check node: 821, run time: 0.018
+Round24: Blue C05
+
+check node: 967, run time: 0.022
+Round25: Red B03
+
+check node: 1030585, run time: 22.468
+Round26: Green A03
+
+check node: 595, run time: 0.015
+Round27: Blue C02
+
+check node: 970, run time: 0.025
+Round28: Red B01
+
+check node: 477409, run time: 10.421
+Round29: Green J02
+
+check node: 709, run time: 0.018
+Round30: Blue K01
+
+check node: 649, run time: 0.017
+Round31: Red J03
+
+check node: 467661, run time: 10.047
+Round32: Green J07
+
+check node: 873, run time: 0.022
+Round33: Blue K07
+
+check node: 757, run time: 0.023
+Round34: Red E07
+
+check node: 736543, run time: 16.223
+Round35: Green E08
+
+check node: 699, run time: 0.018
+Round36: Blue C01
+
+check node: 396, run time: 0.022
+Round37: Red D01
+
+check node: 287565, run time: 6.488
+Round38: Green K03
+
+check node: 392, run time: 0.012
+Round39: Blue L02
+
+check node: 538, run time: 0.018
+Round40: Red E02
+
+check node: 316983, run time: 7.849
+Round41: Green B05
+
+check node: 632, run time: 0.02
+Round42: Blue A05
+
+check node: 491, run time: 0.016
+Round43: Red E09
+
+check node: 108726, run time: 2.997
+Round44: Green C06
+
+check node: 401, run time: 0.013
+Round45: Blue D07
+
+check node: 610, run time: 0.02
+Round46: Red C07
+
+check node: 340899, run time: 8.914
+Round47: Green L03
+
+check node: 647, run time: 0.016
+Round48: Blue E10
+
+check node: 542, run time: 0.018
+Round49: Red L01
+
+check node: 139806, run time: 4.152
+Round50: Green J08
+
+check node: 501, run time: 0.014
+Round51: Blue B07
+
+check node: 406, run time: 0.014
+Round52: Red L06
+
+check node: 55209, run time: 1.776
+Round53: Green L05
+
+check node: 236, run time: 0.008
+Round54: Blue H09
+
+check node: 237, run time: 0.009
+Round55: Red F11
+
+check node: 20733, run time: 0.876
+Round56: Green C08
+
+check node: 221, run time: 0.027
+Round57: Blue E01
+
+check node: 261, run time: 0.019
+Round58: Red F01
+
+check node: 2443, run time: 0.276
+Round59: Green A06
+
+check node: 74, run time: 0.005
+Round60: Blue H01
+
+check node: 51, run time: 0.005
+Round61: Red J01
+
+check node: 1828, run time: 0.088
+Round62: Green A04
+
+check node: 28, run time: 0.001
+Round63: Blue F09
+
+check node: 87, run time: 0.002
+Round64: Red D09
+
+check node: 32229, run time: 1.09
+Round65: Green A02
+
+check node: 186, run time: 0.011
+Round66: Blue B02
+
+check node: 27, run time: 0.002
+Round67: Red B04
+
+check node: 8030, run time: 0.234
+Round68: Green D02
+
+check node: 160, run time: 0.006
+Round69: Blue A01
+
+check node: 90, run time: 0.003
+Round70: Red F02
+
+check node: 11923, run time: 0.351
+Round71: Green D04
+
+check node: 72, run time: 0.003
+Round72: Blue B06
+
+check node: 110, run time: 0.004
+Round73: Red D06
+
+check node: 9873, run time: 0.325
+Round74: Green F06
+
+check node: 102, run time: 0.003
+Round75: Blue H04
+
+check node: 167, run time: 0.005
+Round76: Red H02
+
+check node: 6848, run time: 0.27
+Round77: Green F08
+
+check node: 108, run time: 0.004
+Round78: Blue K02
+
+check node: 110, run time: 0.003
+Round79: Red H06
+
+check node: 1150, run time: 0.082
+Round80: Green F04
+
+check node: 57, run time: 0.002
+Round81: Blue K04
+
+check node: 17, run time: 0.001
+Round82: Red K06
+
+check node: 15, run time: 0.001
+Round83: Green D08
+
+check node: 4, run time: 0
+Round84: Blue F10
+
+check node: 1, run time: 0
+Round85: Red H08
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    B    G    G    G    G    G    x 
+   x    x    x    x    x    R    B    R    B    B    B    G    x 
+   x    x    x    x    R    G    B    G    R    R    G    G    x 
+   x    x    x    R    G    G    G    R    R    G    G    R    x 
+   x    x    R    R    G    G    G    B    G    G    B    R    x 
+   x    R    R    R    G    G    G    G    G    B    R    R    x 
+   x    R    R    R    G    B    R    B    R    R    R    x    x 
+   x    R    R    R    R    R    B    R    R    B    x    x    x 
+   x    R    R    B    B    B    R    R    B    x    x    x    x 
+   x    R    B    B    B    R    R    R    x    x    x    x    x 
+   x    R    R    G    G    G    R    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+0 42 29 total runtime: 167.392
+
+
+--------------------------------第15場--------------------------------
+check node: 0, run time: 0
+Round1: Red G07
+
+check node: 0, run time: 0
+Round2: Green D05
+
+check node: 0, run time: 0
+Round3: Blue C04
+
+check node: 0, run time: 0
+Round4: Red E04
+
+check node: 0, run time: 0
+Round5: Green E07
+
+check node: 0, run time: 0
+Round6: Blue E08
+
+check node: 0, run time: 0
+Round7: Red B03
+
+check node: 0, run time: 0
+Round8: Green D07
+
+check node: 0, run time: 0
+Round9: Blue E03
+
+check node: 0, run time: 0
+Round10: Red C06
+
+check node: 0, run time: 0
+Round11: Green C07
+
+check node: 0, run time: 0
+Round12: Blue C05
+
+check node: 0, run time: 0
+Round13: Red C08
+
+check node: 0, run time: 0
+Round14: Green A02
+
+check node: 0, run time: 0
+Round15: Blue B07
+
+check node: 367, run time: 0.019
+Round16: Red A06
+
+check node: 325032, run time: 7.568
+Round17: Green H07
+
+check node: 491, run time: 0.011
+Round18: Blue G04
+
+check node: 474, run time: 0.012
+Round19: Red F09
+
+check node: 256602, run time: 6.188
+Round20: Green G03
+
+check node: 670, run time: 0.017
+Round21: Blue H03
+
+check node: 899, run time: 0.02
+Round22: Red H05
+
+check node: 845125, run time: 18.929
+Round23: Green D03
+
+check node: 1162, run time: 0.025
+Round24: Blue J04
+
+check node: 1231, run time: 0.029
+Round25: Red J02
+
+check node: 1153678, run time: 26.754
+Round26: Green K01
+
+check node: 709, run time: 0.019
+Round27: Blue G02
+
+check node: 926, run time: 0.023
+Round28: Red G01
+
+check node: 561920, run time: 13.157
+Round29: Green J05
+
+check node: 1036, run time: 0.025
+Round30: Blue E09
+
+check node: 1282, run time: 0.031
+Round31: Red D09
+
+check node: 635925, run time: 15.322
+Round32: Green F03
+
+check node: 892, run time: 0.023
+Round33: Blue H01
+
+check node: 940, run time: 0.023
+Round34: Red C03
+
+check node: 919712, run time: 23.398
+Round35: Green F01
+
+check node: 946, run time: 0.024
+Round36: Blue E02
+
+check node: 1123, run time: 0.026
+Round37: Red J01
+
+check node: 866679, run time: 20.51
+Round38: Green E01
+
+check node: 891, run time: 0.027
+Round39: Blue L01
+
+check node: 724, run time: 0.016
+Round40: Red J03
+
+check node: 267750, run time: 6.968
+Round41: Green B05
+
+check node: 690, run time: 0.027
+Round42: Blue A04
+
+check node: 442, run time: 0.01
+Round43: Red A05
+
+check node: 146146, run time: 4.204
+Round44: Green K03
+
+check node: 604, run time: 0.02
+Round45: Blue L02
+
+check node: 420, run time: 0.01
+Round46: Red A03
+
+check node: 99646, run time: 3.056
+Round47: Green G09
+
+check node: 418, run time: 0.015
+Round48: Blue A01
+
+check node: 264, run time: 0.007
+Round49: Red H09
+
+check node: 31570, run time: 1.098
+Round50: Green L03
+
+check node: 264, run time: 0.011
+Round51: Blue L04
+
+check node: 148, run time: 0.004
+Round52: Red J07
+
+check node: 16108, run time: 0.765
+Round53: Green G08
+
+check node: 174, run time: 0.006
+Round54: Blue D01
+
+check node: 147, run time: 0.006
+Round55: Red C01
+
+check node: 11854, run time: 0.604
+Round56: Green B01
+
+check node: 90, run time: 0.004
+Round57: Blue C02
+
+check node: 60, run time: 0.002
+Round58: Red K05
+
+check node: 15287, run time: 0.612
+Round59: Green E10
+
+check node: 167, run time: 0.006
+Round60: Blue F11
+
+check node: 830, run time: 0.027
+Round61: Red B06
+
+check node: 20523, run time: 0.651
+Round62: Green D06
+
+check node: 182, run time: 0.005
+Round63: Blue L05
+
+check node: 187, run time: 0.005
+Round64: Red D08
+
+check node: 78895, run time: 2.053
+Round65: Green K07
+
+check node: 153, run time: 0.005
+Round66: Blue G10
+
+check node: 175, run time: 0.005
+Round67: Red J06
+
+check node: 32045, run time: 0.912
+Round68: Green F08
+
+check node: 284, run time: 0.009
+Round69: Blue J08
+
+check node: 172, run time: 0.006
+Round70: Red L06
+
+check node: 21756, run time: 0.616
+Round71: Green F10
+
+check node: 156, run time: 0.006
+Round72: Blue H06
+
+check node: 195, run time: 0.006
+Round73: Red B04
+
+check node: 34494, run time: 1.302
+Round74: Green D04
+
+check node: 227, run time: 0.008
+Round75: Blue K04
+
+check node: 297, run time: 0.008
+Round76: Red K06
+
+check node: 11034, run time: 0.443
+Round77: Green H08
+
+check node: 125, run time: 0.005
+Round78: Blue K02
+
+check node: 102, run time: 0.005
+Round79: Red H04
+
+check node: 594, run time: 0.047
+Round80: Green F06
+
+check node: 29, run time: 0.002
+Round81: Blue H02
+
+check node: 21, run time: 0.001
+Round82: Red F04
+
+check node: 11, run time: 0.001
+Round83: Green F02
+
+check node: 2, run time: 0
+Round84: Blue D02
+
+check node: 1, run time: 0
+Round85: Red B02
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    B    B    R    R    R    R    x 
+   x    x    x    x    x    G    R    R    R    R    R    R    x 
+   x    x    x    x    G    R    R    R    R    G    R    R    x 
+   x    x    x    G    R    B    R    G    R    R    R    R    x 
+   x    x    G    R    B    R    G    G    R    B    G    B    x 
+   x    G    G    G    R    R    R    R    B    G    G    B    x 
+   x    G    B    R    R    G    G    B    G    G    B    x    x 
+   x    R    B    B    B    R    R    G    G    B    x    x    x 
+   x    R    B    G    R    B    R    G    B    x    x    x    x 
+   x    B    B    B    R    R    R    R    x    x    x    x    x 
+   x    B    B    B    B    B    R    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+42 23 26 total runtime: 157.257
+
+
+--------------------------------第16場--------------------------------
+check node: 0, run time: 0
+Round1: Red G07
+
+check node: 0, run time: 0
+Round2: Green D05
+
+check node: 0, run time: 0
+Round3: Blue C05
+
+check node: 0, run time: 0
+Round4: Red C04
+
+check node: 0, run time: 0
+Round5: Green G08
+
+check node: 0, run time: 0
+Round6: Blue C03
+
+check node: 0, run time: 0
+Round7: Red B05
+
+check node: 0, run time: 0
+Round8: Green B03
+
+check node: 0, run time: 0
+Round9: Blue E07
+
+check node: 0, run time: 0
+Round10: Red A03
+
+check node: 0, run time: 0
+Round11: Green G04
+
+check node: 0, run time: 0
+Round12: Blue H07
+
+check node: 0, run time: 0
+Round13: Red H05
+
+check node: 0, run time: 0
+Round14: Green C06
+
+check node: 0, run time: 0
+Round15: Blue H03
+
+check node: 1680, run time: 0.033
+Round16: Red G03
+
+check node: 2544410, run time: 55.612
+Round17: Green A05
+
+check node: 1035, run time: 0.021
+Round18: Blue C07
+
+check node: 1266, run time: 0.029
+Round19: Red G09
+
+check node: 1235888, run time: 31.264
+Round20: Green D03
+
+check node: 1317, run time: 0.029
+Round21: Blue E03
+
+check node: 1084, run time: 0.029
+Round22: Red F03
+
+check node: 1603360, run time: 41.732
+Round23: Green C08
+
+check node: 706, run time: 0.015
+Round24: Blue A02
+
+check node: 784, run time: 0.022
+Round25: Red A01
+
+check node: 767477, run time: 20.391
+Round26: Green C02
+
+check node: 716, run time: 0.016
+Round27: Blue B01
+
+check node: 772, run time: 0.02
+Round28: Red C01
+
+check node: 498739, run time: 12.78
+Round29: Green G10
+
+check node: 421, run time: 0.012
+Round30: Blue J04
+
+check node: 391, run time: 0.014
+Round31: Red J02
+
+check node: 89047, run time: 2.499
+Round32: Green E04
+
+check node: 255, run time: 0.008
+Round33: Blue K01
+
+check node: 330, run time: 0.011
+Round34: Red E08
+
+check node: 188749, run time: 5.89
+Round35: Green E02
+
+check node: 462, run time: 0.017
+Round36: Blue D01
+
+check node: 354, run time: 0.013
+Round37: Red E01
+
+check node: 90726, run time: 2.915
+Round38: Green G02
+
+check node: 315, run time: 0.011
+Round39: Blue F09
+
+check node: 372, run time: 0.014
+Round40: Red K03
+
+check node: 125761, run time: 3.97
+Round41: Green J07
+
+check node: 376, run time: 0.014
+Round42: Blue K07
+
+check node: 175, run time: 0.006
+Round43: Red G01
+
+check node: 49771, run time: 1.757
+Round44: Green E09
+
+check node: 303, run time: 0.01
+Round45: Blue E10
+
+check node: 124, run time: 0.005
+Round46: Red J03
+
+check node: 31341, run time: 1.131
+Round47: Green L02
+
+check node: 136, run time: 0.005
+Round48: Blue H09
+
+check node: 169, run time: 0.008
+Round49: Red F11
+
+check node: 23271, run time: 0.8
+Round50: Green J08
+
+check node: 168, run time: 0.007
+Round51: Blue H01
+
+check node: 212, run time: 0.009
+Round52: Red L06
+
+check node: 11610, run time: 0.493
+Round53: Green F01
+
+check node: 78, run time: 0.005
+Round54: Blue L03
+
+check node: 143, run time: 0.008
+Round55: Red L01
+
+check node: 4123, run time: 0.194
+Round56: Green J01
+
+check node: 27, run time: 0.001
+Round57: Blue J05
+
+check node: 71, run time: 0.005
+Round58: Red D09
+
+check node: 1127, run time: 0.061
+Round59: Green K05
+
+check node: 39, run time: 0.003
+Round60: Blue J06
+
+check node: 24, run time: 0.002
+Round61: Red B07
+
+check node: 1786, run time: 0.066
+Round62: Green D07
+
+check node: 40, run time: 0.001
+Round63: Blue L04
+
+check node: 76, run time: 0.004
+Round64: Red L05
+
+check node: 48466, run time: 1.735
+Round65: Green A06
+
+check node: 305, run time: 0.014
+Round66: Blue K02
+
+check node: 26, run time: 0.001
+Round67: Red H02
+
+check node: 7686, run time: 0.242
+Round68: Green F02
+
+check node: 48, run time: 0.002
+Round69: Blue D02
+
+check node: 50, run time: 0.003
+Round70: Red K04
+
+check node: 25886, run time: 0.942
+Round71: Green K06
+
+check node: 186, run time: 0.008
+Round72: Blue H04
+
+check node: 97, run time: 0.005
+Round73: Red H06
+
+check node: 27015, run time: 1.044
+Round74: Green F04
+
+check node: 79, run time: 0.003
+Round75: Blue D04
+
+check node: 136, run time: 0.007
+Round76: Red B02
+
+check node: 7569, run time: 0.396
+Round77: Green B04
+
+check node: 103, run time: 0.005
+Round78: Blue A04
+
+check node: 81, run time: 0.003
+Round79: Red F06
+
+check node: 494, run time: 0.057
+Round80: Green D06
+
+check node: 36, run time: 0.002
+Round81: Blue D08
+
+check node: 30, run time: 0.002
+Round82: Red F10
+
+check node: 10, run time: 0.001
+Round83: Green F08
+
+check node: 4, run time: 0
+Round84: Blue H08
+
+check node: 1, run time: 0
+Round85: Red B06
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    R    R    R    B    G    G    x 
+   x    x    x    x    x    R    R    G    B    R    R    R    x 
+   x    x    x    x    R    R    R    B    G    R    R    R    x 
+   x    x    x    R    G    B    B    B    B    B    R    R    x 
+   x    x    R    B    G    B    R    G    G    G    R    R    x 
+   x    G    G    G    G    G    R    G    G    G    R    R    x 
+   x    G    G    G    G    R    R    G    B    B    R    x    x 
+   x    G    B    B    B    R    R    B    B    G    x    x    x 
+   x    G    R    B    B    R    R    B    G    x    x    x    x 
+   x    G    G    G    G    G    G    R    x    x    x    x    x 
+   x    R    R    R    R    R    R    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+39 32 20 total runtime: 188.074
+
+
+--------------------------------第17場--------------------------------
+check node: 0, run time: 0
+Round1: Red E04
+
+check node: 0, run time: 0
+Round2: Green D03
+
+check node: 0, run time: 0
+Round3: Blue E03
+
+check node: 0, run time: 0
+Round4: Red E02
+
+check node: 0, run time: 0
+Round5: Green E01
+
+check node: 0, run time: 0
+Round6: Blue D05
+
+check node: 0, run time: 0
+Round7: Red G04
+
+check node: 0, run time: 0
+Round8: Green H05
+
+check node: 0, run time: 0
+Round9: Blue G07
+
+check node: 0, run time: 0
+Round10: Red J05
+
+check node: 0, run time: 0
+Round11: Green G03
+
+check node: 0, run time: 0
+Round12: Blue H03
+
+check node: 0, run time: 0
+Round13: Red G08
+
+check node: 0, run time: 0
+Round14: Green H07
+
+check node: 0, run time: 0
+Round15: Blue J07
+
+check node: 784, run time: 0.021
+Round16: Red E07
+
+check node: 830355, run time: 17.287
+Round17: Green F09
+
+check node: 887, run time: 0.019
+Round18: Blue G09
+
+check node: 1232, run time: 0.032
+Round19: Red K07
+
+check node: 779406, run time: 15.715
+Round20: Green H09
+
+check node: 726, run time: 0.018
+Round21: Blue G02
+
+check node: 516, run time: 0.014
+Round22: Red G01
+
+check node: 526740, run time: 11.553
+Round23: Green E08
+
+check node: 722, run time: 0.017
+Round24: Blue D07
+
+check node: 906, run time: 0.022
+Round25: Red C05
+
+check node: 927727, run time: 20.349
+Round26: Green J03
+
+check node: 905, run time: 0.024
+Round27: Blue J02
+
+check node: 1115, run time: 0.023
+Round28: Red E09
+
+check node: 1629000, run time: 36.606
+Round29: Green J01
+
+check node: 1003, run time: 0.021
+Round30: Blue D09
+
+check node: 819, run time: 0.017
+Round31: Red C02
+
+check node: 1254812, run time: 28.658
+Round32: Green B01
+
+check node: 684, run time: 0.017
+Round33: Blue F03
+
+check node: 963, run time: 0.023
+Round34: Red C03
+
+check node: 1278778, run time: 30.185
+Round35: Green C07
+
+check node: 1234, run time: 0.029
+Round36: Blue B07
+
+check node: 907, run time: 0.019
+Round37: Red D01
+
+check node: 795697, run time: 19.78
+Round38: Green C01
+
+check node: 659, run time: 0.019
+Round39: Blue J04
+
+check node: 478, run time: 0.012
+Round40: Red K03
+
+check node: 413410, run time: 12.124
+Round41: Green L03
+
+check node: 553, run time: 0.014
+Round42: Blue J06
+
+check node: 516, run time: 0.013
+Round43: Red K05
+
+check node: 361170, run time: 10.954
+Round44: Green L05
+
+check node: 535, run time: 0.014
+Round45: Blue B05
+
+check node: 508, run time: 0.015
+Round46: Red A05
+
+check node: 136855, run time: 4.323
+Round47: Green B03
+
+check node: 410, run time: 0.016
+Round48: Blue A03
+
+check node: 333, run time: 0.013
+Round49: Red C04
+
+check node: 91746, run time: 2.926
+Round50: Green E10
+
+check node: 422, run time: 0.014
+Round51: Blue F11
+
+check node: 204, run time: 0.007
+Round52: Red G10
+
+check node: 25948, run time: 0.966
+Round53: Green J08
+
+check node: 187, run time: 0.008
+Round54: Blue L06
+
+check node: 117, run time: 0.005
+Round55: Red L04
+
+check node: 4170, run time: 0.217
+Round56: Green C06
+
+check node: 97, run time: 0.003
+Round57: Blue L02
+
+check node: 82, run time: 0.004
+Round58: Red L01
+
+check node: 1290, run time: 0.091
+Round59: Green A02
+
+check node: 59, run time: 0.003
+Round60: Blue A01
+
+check node: 39, run time: 0.002
+Round61: Red F01
+
+check node: 848, run time: 0.027
+Round62: Green H01
+
+check node: 10, run time: 0.001
+Round63: Blue A04
+
+check node: 27, run time: 0.001
+Round64: Red K01
+
+check node: 12396, run time: 0.39
+Round65: Green A06
+
+check node: 459, run time: 0.02
+Round66: Blue C08
+
+check node: 278, run time: 0.012
+Round67: Red F02
+
+check node: 3157, run time: 0.088
+Round68: Green F04
+
+check node: 93, run time: 0.003
+Round69: Blue H02
+
+check node: 105, run time: 0.004
+Round70: Red D02
+
+check node: 17095, run time: 0.474
+Round71: Green H04
+
+check node: 126, run time: 0.005
+Round72: Blue B02
+
+check node: 152, run time: 0.004
+Round73: Red D04
+
+check node: 6629, run time: 0.211
+Round74: Green F06
+
+check node: 101, run time: 0.004
+Round75: Blue H06
+
+check node: 227, run time: 0.007
+Round76: Red H08
+
+check node: 16591, run time: 0.606
+Round77: Green K06
+
+check node: 153, run time: 0.007
+Round78: Blue K02
+
+check node: 71, run time: 0.002
+Round79: Red K04
+
+check node: 319, run time: 0.025
+Round80: Green F10
+
+check node: 41, run time: 0.002
+Round81: Blue D06
+
+check node: 32, run time: 0.001
+Round82: Red F08
+
+check node: 15, run time: 0.001
+Round83: Green D08
+
+check node: 4, run time: 0.001
+Round84: Blue B06
+
+check node: 1, run time: 0
+Round85: Red B04
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    B    B    B    B    G    G    x 
+   x    x    x    x    x    R    B    R    R    B    B    B    x 
+   x    x    x    x    R    B    R    R    R    B    B    B    x 
+   x    x    x    R    R    R    R    R    R    G    G    B    x 
+   x    x    R    R    R    R    G    B    R    R    G    B    x 
+   x    R    R    G    R    G    R    R    R    R    G    B    x 
+   x    R    B    B    G    B    B    R    R    G    R    x    x 
+   x    R    B    R    R    R    R    R    G    G    x    x    x 
+   x    R    B    B    R    R    G    G    G    x    x    x    x 
+   x    R    R    R    R    R    G    B    x    x    x    x    x 
+   x    R    R    R    R    R    B    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+49 17 25 total runtime: 215.66
+
+
+--------------------------------第18場--------------------------------
+check node: 0, run time: 0
+Round1: Red D05
+
+check node: 0, run time: 0
+Round2: Green E07
+
+check node: 0, run time: 0
+Round3: Blue H05
+
+check node: 0, run time: 0
+Round4: Red G07
+
+check node: 0, run time: 0
+Round5: Green E04
+
+check node: 0, run time: 0
+Round6: Blue D03
+
+check node: 0, run time: 0
+Round7: Red D07
+
+check node: 0, run time: 0
+Round8: Green G04
+
+check node: 0, run time: 0
+Round9: Blue G08
+
+check node: 0, run time: 0
+Round10: Red J04
+
+check node: 0, run time: 0
+Round11: Green C04
+
+check node: 0, run time: 0
+Round12: Blue G03
+
+check node: 0, run time: 0
+Round13: Red H07
+
+check node: 0, run time: 0
+Round14: Green J07
+
+check node: 0, run time: 0
+Round15: Blue K03
+
+check node: 841, run time: 0.022
+Round16: Red L02
+
+check node: 430234, run time: 9.069
+Round17: Green F09
+
+check node: 423, run time: 0.01
+Round18: Blue C05
+
+check node: 683, run time: 0.017
+Round19: Red C02
+
+check node: 465947, run time: 10.342
+Round20: Green H03
+
+check node: 922, run time: 0.022
+Round21: Blue K07
+
+check node: 1149, run time: 0.025
+Round22: Red F03
+
+check node: 872709, run time: 18.924
+Round23: Green J06
+
+check node: 1191, run time: 0.028
+Round24: Blue J05
+
+check node: 1525, run time: 0.029
+Round25: Red J08
+
+check node: 1617707, run time: 35.671
+Round26: Green L06
+
+check node: 1242, run time: 0.031
+Round27: Blue J02
+
+check node: 1097, run time: 0.025
+Round28: Red E09
+
+check node: 689479, run time: 18.105
+Round29: Green H09
+
+check node: 698, run time: 0.019
+Round30: Blue E02
+
+check node: 584, run time: 0.014
+Round31: Red B05
+
+check node: 484888, run time: 13.404
+Round32: Green A05
+
+check node: 428, run time: 0.011
+Round33: Blue B01
+
+check node: 328, run time: 0.01
+Round34: Red K01
+
+check node: 197856, run time: 5.969
+Round35: Green J03
+
+check node: 552, run time: 0.015
+Round36: Blue D09
+
+check node: 452, run time: 0.014
+Round37: Red E03
+
+check node: 364911, run time: 9.774
+Round38: Green D01
+
+check node: 495, run time: 0.013
+Round39: Blue K05
+
+check node: 454, run time: 0.012
+Round40: Red L05
+
+check node: 221400, run time: 6.385
+Round41: Green L04
+
+check node: 363, run time: 0.013
+Round42: Blue J01
+
+check node: 393, run time: 0.011
+Round43: Red H01
+
+check node: 65396, run time: 2.063
+Round44: Green E08
+
+check node: 337, run time: 0.009
+Round45: Blue C07
+
+check node: 353, run time: 0.012
+Round46: Red B07
+
+check node: 59152, run time: 1.911
+Round47: Green L03
+
+check node: 242, run time: 0.008
+Round48: Blue L01
+
+check node: 239, run time: 0.008
+Round49: Red B03
+
+check node: 61831, run time: 2.169
+Round50: Green E10
+
+check node: 339, run time: 0.011
+Round51: Blue F11
+
+check node: 187, run time: 0.007
+Round52: Red C06
+
+check node: 21441, run time: 0.87
+Round53: Green A02
+
+check node: 187, run time: 0.007
+Round54: Blue G01
+
+check node: 106, run time: 0.004
+Round55: Red G02
+
+check node: 3567, run time: 0.191
+Round56: Green G09
+
+check node: 88, run time: 0.006
+Round57: Blue G10
+
+check node: 41, run time: 0.002
+Round58: Red A04
+
+check node: 911, run time: 0.065
+Round59: Green C08
+
+check node: 41, run time: 0.002
+Round60: Blue A06
+
+check node: 18, run time: 0.001
+Round61: Red C03
+
+check node: 1710, run time: 0.07
+Round62: Green C01
+
+check node: 44, run time: 0.001
+Round63: Blue A03
+
+check node: 96, run time: 0.004
+Round64: Red A01
+
+check node: 73228, run time: 2.227
+Round65: Green K04
+
+check node: 26, run time: 0.002
+Round66: Blue H06
+
+check node: 113, run time: 0.003
+Round67: Red E01
+
+check node: 23485, run time: 0.731
+Round68: Green K06
+
+check node: 52, run time: 0.002
+Round69: Blue H04
+
+check node: 112, run time: 0.003
+Round70: Red K02
+
+check node: 20880, run time: 0.625
+Round71: Green H02
+
+check node: 74, run time: 0.003
+Round72: Blue F04
+
+check node: 110, run time: 0.004
+Round73: Red F06
+
+check node: 20673, run time: 0.66
+Round74: Green H08
+
+check node: 91, run time: 0.003
+Round75: Blue D04
+
+check node: 167, run time: 0.004
+Round76: Red B04
+
+check node: 13746, run time: 0.566
+Round77: Green B02
+
+check node: 102, run time: 0.003
+Round78: Blue D02
+
+check node: 68, run time: 0.002
+Round79: Red F08
+
+check node: 527, run time: 0.041
+Round80: Green D06
+
+check node: 38, run time: 0.002
+Round81: Blue B06
+
+check node: 12, run time: 0.001
+Round82: Red D08
+
+check node: 8, run time: 0.001
+Round83: Green F10
+
+check node: 2, run time: 0
+Round84: Blue F02
+
+check node: 1, run time: 0
+Round85: Red F01
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    R    R    B    B    B    B    x 
+   x    x    x    x    x    R    B    G    B    B    B    B    x 
+   x    x    x    x    R    B    G    R    G    B    R    G    x 
+   x    x    x    R    B    B    B    G    B    R    R    B    x 
+   x    x    R    B    B    B    B    B    G    R    G    B    x 
+   x    R    R    R    R    R    R    R    R    G    G    B    x 
+   x    B    B    B    B    R    R    R    R    G    B    x    x 
+   x    B    G    G    B    B    G    G    G    G    x    x    x 
+   x    B    G    R    G    B    G    G    G    x    x    x    x 
+   x    B    R    G    G    G    G    G    x    x    x    x    x 
+   x    B    B    G    G    G    G    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+25 30 36 total runtime: 150.518
+
+
+--------------------------------第19場--------------------------------
+check node: 0, run time: 0
+Round1: Red G04
+
+check node: 0, run time: 0
+Round2: Green G07
+
+check node: 0, run time: 0
+Round3: Blue E04
+
+check node: 0, run time: 0
+Round4: Red E03
+
+check node: 0, run time: 0
+Round5: Green H05
+
+check node: 0, run time: 0
+Round6: Blue D03
+
+check node: 0, run time: 0
+Round7: Red J05
+
+check node: 0, run time: 0
+Round8: Green C03
+
+check node: 0, run time: 0
+Round9: Blue K05
+
+check node: 0, run time: 0
+Round10: Red L05
+
+check node: 0, run time: 0
+Round11: Green F03
+
+check node: 0, run time: 0
+Round12: Blue E02
+
+check node: 0, run time: 0
+Round13: Red B03
+
+check node: 0, run time: 0
+Round14: Green A03
+
+check node: 0, run time: 0
+Round15: Blue C02
+
+check node: 464, run time: 0.013
+Round16: Red E01
+
+check node: 92483, run time: 2.377
+Round17: Green J04
+
+check node: 518, run time: 0.015
+Round18: Blue D01
+
+check node: 360, run time: 0.01
+Round19: Red C01
+
+check node: 49016, run time: 1.392
+Round20: Green J06
+
+check node: 349, run time: 0.012
+Round21: Blue E07
+
+check node: 634, run time: 0.016
+Round22: Red C04
+
+check node: 245645, run time: 6.29
+Round23: Green G03
+
+check node: 511, run time: 0.015
+Round24: Blue H07
+
+check node: 787, run time: 0.02
+Round25: Red K03
+
+check node: 500852, run time: 13.472
+Round26: Green L02
+
+check node: 461, run time: 0.014
+Round27: Blue J03
+
+check node: 576, run time: 0.015
+Round28: Red D07
+
+check node: 529164, run time: 13.422
+Round29: Green J07
+
+check node: 913, run time: 0.028
+Round30: Blue J08
+
+check node: 687, run time: 0.015
+Round31: Red G08
+
+check node: 697052, run time: 18.226
+Round32: Green H03
+
+check node: 768, run time: 0.021
+Round33: Blue C07
+
+check node: 755, run time: 0.019
+Round34: Red D05
+
+check node: 460704, run time: 11.956
+Round35: Green C05
+
+check node: 736, run time: 0.019
+Round36: Blue J02
+
+check node: 827, run time: 0.02
+Round37: Red K01
+
+check node: 619747, run time: 15.546
+Round38: Green G09
+
+check node: 741, run time: 0.02
+Round39: Blue G02
+
+check node: 1015, run time: 0.026
+Round40: Red G10
+
+check node: 553618, run time: 14.254
+Round41: Green H01
+
+check node: 649, run time: 0.019
+Round42: Blue C06
+
+check node: 742, run time: 0.018
+Round43: Red C08
+
+check node: 303411, run time: 8.825
+Round44: Green K07
+
+check node: 499, run time: 0.015
+Round45: Blue L06
+
+check node: 329, run time: 0.008
+Round46: Red E08
+
+check node: 136835, run time: 4.647
+Round47: Green F09
+
+check node: 429, run time: 0.013
+Round48: Blue L04
+
+check node: 280, run time: 0.007
+Round49: Red A02
+
+check node: 103198, run time: 4.078
+Round50: Green A01
+
+check node: 220, run time: 0.008
+Round51: Blue L03
+
+check node: 172, run time: 0.006
+Round52: Red L01
+
+check node: 21033, run time: 1.084
+Round53: Green B01
+
+check node: 132, run time: 0.005
+Round54: Blue F01
+
+check node: 71, run time: 0.002
+Round55: Red G01
+
+check node: 6721, run time: 0.343
+Round56: Green H09
+
+check node: 76, run time: 0.003
+Round57: Blue F11
+
+check node: 43, run time: 0.003
+Round58: Red J01
+
+check node: 1453, run time: 0.076
+Round59: Green B07
+
+check node: 41, run time: 0.002
+Round60: Blue A06
+
+check node: 12, run time: 0
+Round61: Red E09
+
+check node: 4055, run time: 0.151
+Round62: Green B05
+
+check node: 62, run time: 0.002
+Round63: Blue A05
+
+check node: 5, run time: 0.001
+Round64: Red A04
+
+check node: 3033, run time: 0.111
+Round65: Green D09
+
+check node: 76, run time: 0.004
+Round66: Blue E10
+
+check node: 337, run time: 0.016
+Round67: Red K02
+
+check node: 14617, run time: 0.436
+Round68: Green H04
+
+check node: 49, run time: 0.001
+Round69: Blue F06
+
+check node: 166, run time: 0.005
+Round70: Red K04
+
+check node: 44101, run time: 1.226
+Round71: Green F04
+
+check node: 157, run time: 0.005
+Round72: Blue H02
+
+check node: 136, run time: 0.004
+Round73: Red K06
+
+check node: 38381, run time: 1.155
+Round74: Green D04
+
+check node: 205, run time: 0.007
+Round75: Blue H06
+
+check node: 135, run time: 0.003
+Round76: Red H08
+
+check node: 18390, run time: 0.689
+Round77: Green B02
+
+check node: 121, run time: 0.005
+Round78: Blue F10
+
+check node: 50, run time: 0.002
+Round79: Red F02
+
+check node: 664, run time: 0.049
+Round80: Green D02
+
+check node: 25, run time: 0.002
+Round81: Blue F08
+
+check node: 7, run time: 0.001
+Round82: Red D06
+
+check node: 10, run time: 0
+Round83: Green B04
+
+check node: 4, run time: 0.001
+Round84: Blue B06
+
+check node: 1, run time: 0
+Round85: Red D08
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    G    G    G    R    B    B    x 
+   x    x    x    x    x    G    G    G    G    B    B    B    x 
+   x    x    x    x    B    G    G    G    G    B    R    B    x 
+   x    x    x    B    G    R    G    R    R    R    R    B    x 
+   x    x    B    G    G    G    B    R    R    R    B    B    x 
+   x    B    R    R    G    R    B    B    B    B    B    B    x 
+   x    R    R    B    G    B    B    B    B    B    B    x    x 
+   x    R    B    B    B    B    B    R    R    G    x    x    x 
+   x    R    R    G    R    B    B    R    B    x    x    x    x 
+   x    R    R    R    R    R    R    B    x    x    x    x    x 
+   x    R    R    B    B    B    B    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+30 20 41 total runtime: 121.732
+
+
+--------------------------------第20場--------------------------------
+check node: 0, run time: 0
+Round1: Red G07
+
+check node: 0, run time: 0
+Round2: Green E04
+
+check node: 0, run time: 0
+Round3: Blue D05
+
+check node: 0, run time: 0
+Round4: Red C04
+
+check node: 0, run time: 0
+Round5: Green C05
+
+check node: 0, run time: 0
+Round6: Blue H07
+
+check node: 0, run time: 0
+Round7: Red E07
+
+check node: 0, run time: 0
+Round8: Green C03
+
+check node: 0, run time: 0
+Round9: Blue G04
+
+check node: 0, run time: 0
+Round10: Red G08
+
+check node: 0, run time: 0
+Round11: Green E08
+
+check node: 0, run time: 0
+Round12: Blue G09
+
+check node: 0, run time: 0
+Round13: Red D07
+
+check node: 0, run time: 0
+Round14: Green C06
+
+check node: 0, run time: 0
+Round15: Blue C07
+
+check node: 719, run time: 0.018
+Round16: Red B07
+
+check node: 288234, run time: 6.093
+Round17: Green H03
+
+check node: 840, run time: 0.026
+Round18: Blue E09
+
+check node: 772, run time: 0.019
+Round19: Red G10
+
+check node: 449279, run time: 9.801
+Round20: Green J07
+
+check node: 790, run time: 0.026
+Round21: Blue C08
+
+check node: 320, run time: 0.016
+Round22: Red D09
+
+check node: 150202, run time: 3.566
+Round23: Green H05
+
+check node: 576, run time: 0.019
+Round24: Blue B05
+
+check node: 531, run time: 0.012
+Round25: Red K07
+
+check node: 105268, run time: 2.636
+Round26: Green F09
+
+check node: 672, run time: 0.021
+Round27: Blue C02
+
+check node: 633, run time: 0.017
+Round28: Red C01
+
+check node: 250485, run time: 6.483
+Round29: Green B03
+
+check node: 731, run time: 0.022
+Round30: Blue A02
+
+check node: 549, run time: 0.014
+Round31: Red E03
+
+check node: 318868, run time: 8.948
+Round32: Green H09
+
+check node: 870, run time: 0.023
+Round33: Blue F11
+
+check node: 642, run time: 0.018
+Round34: Red A05
+
+check node: 188508, run time: 5.596
+Round35: Green E02
+
+check node: 510, run time: 0.018
+Round36: Blue E01
+
+check node: 438, run time: 0.01
+Round37: Red J04
+
+check node: 178848, run time: 5.598
+Round38: Green D03
+
+check node: 548, run time: 0.014
+Round39: Blue J08
+
+check node: 463, run time: 0.011
+Round40: Red J02
+
+check node: 196729, run time: 7.965
+Round41: Green L06
+
+check node: 329, run time: 0.009
+Round42: Blue K01
+
+check node: 269, run time: 0.009
+Round43: Red F03
+
+check node: 137948, run time: 5.23
+Round44: Green J06
+
+check node: 451, run time: 0.012
+Round45: Blue E10
+
+check node: 224, run time: 0.01
+Round46: Red G03
+
+check node: 107171, run time: 4.15
+Round47: Green A06
+
+check node: 285, run time: 0.009
+Round48: Blue G02
+
+check node: 250, run time: 0.009
+Round49: Red G01
+
+check node: 73553, run time: 2.838
+Round50: Green A04
+
+check node: 231, run time: 0.008
+Round51: Blue J05
+
+check node: 157, run time: 0.006
+Round52: Red K05
+
+check node: 38296, run time: 1.621
+Round53: Green L05
+
+check node: 183, run time: 0.006
+Round54: Blue J03
+
+check node: 160, run time: 0.008
+Round55: Red K03
+
+check node: 18659, run time: 0.888
+Round56: Green L03
+
+check node: 127, run time: 0.004
+Round57: Blue H01
+
+check node: 116, run time: 0.005
+Round58: Red L04
+
+check node: 2258, run time: 0.152
+Round59: Green F01
+
+check node: 46, run time: 0.002
+Round60: Blue B01
+
+check node: 49, run time: 0.004
+Round61: Red A01
+
+check node: 1777, run time: 0.066
+Round62: Green D01
+
+check node: 10, run time: 0.001
+Round63: Blue L02
+
+check node: 111, run time: 0.002
+Round64: Red L01
+
+check node: 22718, run time: 0.741
+Round65: Green A03
+
+check node: 425, run time: 0.017
+Round66: Blue J01
+
+check node: 297, run time: 0.012
+Round67: Red K02
+
+check node: 3228, run time: 0.106
+Round68: Green K04
+
+check node: 55, run time: 0.002
+Round69: Blue H06
+
+check node: 97, run time: 0.003
+Round70: Red H02
+
+check node: 41754, run time: 1.179
+Round71: Green F02
+
+check node: 170, run time: 0.006
+Round72: Blue H04
+
+check node: 75, run time: 0.003
+Round73: Red H08
+
+check node: 14722, run time: 0.458
+Round74: Green K06
+
+check node: 93, run time: 0.004
+Round75: Blue F10
+
+check node: 42, run time: 0.002
+Round76: Red F08
+
+check node: 2768, run time: 0.109
+Round77: Green D08
+
+check node: 80, run time: 0.003
+Round78: Blue B06
+
+check node: 66, run time: 0.002
+Round79: Red F06
+
+check node: 492, run time: 0.036
+Round80: Green D06
+
+check node: 21, run time: 0.001
+Round81: Blue B04
+
+check node: 18, run time: 0.001
+Round82: Red D04
+
+check node: 5, run time: 0
+Round83: Green F04
+
+check node: 4, run time: 0
+Round84: Blue B02
+
+check node: 1, run time: 0
+Round85: Red D02
+
+Board: 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+   x    x    x    x    x    x    R    G    G    G    G    G    x 
+   x    x    x    x    x    R    R    B    R    B    B    G    x 
+   x    x    x    x    R    R    B    R    B    G    B    G    x 
+   x    x    x    G    R    R    R    R    G    G    G    G    x 
+   x    x    G    G    R    G    R    G    G    G    B    B    x 
+   x    G    G    G    G    G    R    R    R    R    B    B    x 
+   x    G    G    G    G    R    R    R    R    B    B    x    x 
+   x    B    R    B    B    B    B    R    R    B    x    x    x 
+   x    B    R    B    B    B    G    G    B    x    x    x    x 
+   x    B    R    G    B    G    G    G    x    x    x    x    x 
+   x    R    R    R    R    G    G    x    x    x    x    x    x 
+   x    x    x    x    x    x    x    x    x    x    x    x    x 
+
+
+30 36 25 total runtime: 76.182
+
+
+Red 勝率: 0.25
+Green 勝率: 0.45
+Blue 勝率: 0.3
